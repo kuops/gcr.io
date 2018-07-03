@@ -1,3 +1,6 @@
+add kuops/apparmor-loader:0.1</br>
+add kuops/apparmor-loader:latest</br>
+add kuops/apparmor-loader:0.2</br>
 add kuops/alpine-with-bash:1.0</br>
 add kuops/alpine-iptables-arm64:v6</br>
 add kuops/alpine-iptables-arm:v6</br>
