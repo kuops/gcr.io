@@ -1,3 +1,4 @@
+add kuops/cloudsql-authenticator:v1</br>
 add kuops/cloud-controller-manager-s390x:v1.8.15-beta.0</br>
 add kuops/cloud-controller-manager-s390x:v1.11.0-rc.3</br>
 add kuops/cloud-controller-manager-s390x:v1.11.0-rc.1</br>
