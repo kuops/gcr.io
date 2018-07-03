@@ -1,3 +1,13 @@
+add kuops/cluster-autoscaler:v1.2.1</br>
+add kuops/cluster-autoscaler:v1.0.5</br>
+add kuops/cluster-autoscaler:v1.2.0-rc3</br>
+add kuops/cluster-autoscaler:v1.2.0</br>
+add kuops/cluster-autoscaler:v1.2.0-rc1</br>
+add kuops/cluster-autoscaler:v1.2.2</br>
+add kuops/cluster-autoscaler:v1.2.0-rc2</br>
+add kuops/cluster-autoscaler:v1.3.0-beta.1</br>
+add kuops/cluster-autoscaler:v1.3.0</br>
+add kuops/cluster-autoscaler:v1.3.0-beta.2</br>
 add kuops/cloudsql-authenticator:v1</br>
 add kuops/cloud-controller-manager-s390x:v1.8.15-beta.0</br>
 add kuops/cloud-controller-manager-s390x:v1.11.0-rc.3</br>
