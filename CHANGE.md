@@ -1,3 +1,13 @@
+add kuops/fluentd-gcp:2.0.8</br>
+add kuops/fluentd-gcp:2.0.9</br>
+add kuops/fluentd-gcp:2.0.10</br>
+add kuops/fluentd-gcp:2.0.12</br>
+add kuops/fluentd-gcp:2.0.11</br>
+add kuops/fluentd-gcp:2.0.13</br>
+add kuops/fluentd-gcp:2.0.14</br>
+add kuops/fluentd-gcp:2.0.17</br>
+add kuops/fluentd-gcp:2.0.15</br>
+add kuops/fluentd-gcp:2.0.16</br>
 add kuops/fluentd-elasticsearch:1.24</br>
 add kuops/fluentd-elasticsearch:1.22</br>
 add kuops/fluentd-elasticsearch:1.23</br>
