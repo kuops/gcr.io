@@ -103,6 +103,7 @@ image_push() {
     if  ! [ -f CHANGE.md ];then
         echo  >> CHANGE.md
     fi
+    PROGRESS_COUNT=0
     while read GCR_IMAGE_NAME;do
         IMAGE_NAME=${GCR_IMAGE_NAME##*/}
         if ! [ -d $IMAGE_NAME ];then
@@ -114,15 +115,20 @@ image_push() {
             if [ -f $IMAGE_NAME/$i ];then
                 echo "$IMAGE_TAG_SHA"  > /tmp/diff.txt
                 if ! diff /tmp/diff.txt $IMAGE_NAME/$i &> /dev/null ;then
-                     tag_push &
+                     tag_push & 
+                     let PROGRESS_COUNT++
                 fi
             else
                 tag_push &
+                let PROGRESS_COUNT++
+            fi
+            COUNT_WAIT=$[$PROGRESS_COUNT%50]
+            if [ $COUNT_WAIT -eq 0 ];then
+                wait
+               clean_images
+               git_add
             fi
         done
-        wait
-        clean_images
-        git_add
     done < repository-file
     if [ ${#ADD_TAG} -ne 0 ];then
         sed -i "1i-------------------------------at $(date +'%F %T') sync image repositorys-------------------------------"  CHANGE.md
