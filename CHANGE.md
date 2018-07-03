@@ -1,3 +1,12 @@
+add kuops/fluentd-elasticsearch:1.24</br>
+add kuops/fluentd-elasticsearch:1.22</br>
+add kuops/fluentd-elasticsearch:1.23</br>
+add kuops/fluentd-elasticsearch:v2.0.1</br>
+add kuops/fluentd-elasticsearch:v2.0.2</br>
+add kuops/fluentd-elasticsearch:v2.0.0</br>
+add kuops/fluentd-elasticsearch:v2.0.3</br>
+add kuops/fluentd-elasticsearch:v2.0.4</br>
+add kuops/fluentd-elasticsearch:v2.1.0</br>
 add kuops/flannel-server-helper:0.1</br>
 add kuops/flannel-ppc64le:0.5.5</br>
 add kuops/flannel-arm64:0.5.5</br>
