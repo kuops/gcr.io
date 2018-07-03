@@ -1,3 +1,4 @@
+add kuops/clusterapi-tester:1.0</br>
 add kuops/cluster-proportional-autoscaler-ppc64le:1.0.0</br>
 add kuops/cluster-proportional-autoscaler-ppc64le:1.1.0</br>
 add kuops/cluster-proportional-autoscaler-ppc64le:1.1.1</br>
