@@ -1,3 +1,4 @@
+add kuops/flannel-ppc64le:0.5.5</br>
 add kuops/flannel-arm64:0.5.5</br>
 add kuops/flannel-arm:0.5.5</br>
 add kuops/flannel-amd64:0.5.5</br>
