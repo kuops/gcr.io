@@ -1,3 +1,6 @@
+add kuops/etcd-version-monitor:0.1.0</br>
+add kuops/etcd-version-monitor:0.1.1</br>
+add kuops/etcd-version-monitor:0.1.2</br>
 add kuops/etcd-statefulset-e2e-test:0.0</br>
 add kuops/etcd-s390x:3.1.12</br>
 add kuops/etcd-s390x:3.2.17</br>
