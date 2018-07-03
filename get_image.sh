@@ -122,6 +122,7 @@ image_push() {
                 tag_push &
                 let PROGRESS_COUNT++
             fi
+            echo "syncing image $MY_REPO/$IMAGE_NAME\:${i}"
             COUNT_WAIT=$[$PROGRESS_COUNT%50]
             if [ $COUNT_WAIT -eq 0 ];then
                 wait
