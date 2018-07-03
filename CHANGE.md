@@ -1,3 +1,14 @@
+add kuops/etcd-ppc64le:3.1.16</br>
+add kuops/etcd-ppc64le:3.1.17</br>
+add kuops/etcd-ppc64le:3.1.12</br>
+add kuops/etcd-ppc64le:3.2.17</br>
+add kuops/etcd-ppc64le:3.1.12-0</br>
+add kuops/etcd-ppc64le:3.1.13</br>
+add kuops/etcd-ppc64le:3.1.13-0</br>
+add kuops/etcd-ppc64le:3.2.18-0</br>
+add kuops/etcd-ppc64le:3.2.18</br>
+add kuops/etcd-ppc64le:3.1.12-1</br>
+add kuops/etcd-ppc64le:3.1.15</br>
 add kuops/etcd-empty-dir-cleanup:0.0.2</br>
 add kuops/etcd-empty-dir-cleanup:3.0.14.0</br>
 add kuops/etcd-empty-dir-cleanup:0.0.3</br>
