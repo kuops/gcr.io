@@ -1,3 +1,4 @@
+add kuops/addon-resizer-amd64:2.1</br>
 add kuops/addon-resizer:1.2</br>
 add kuops/addon-resizer:1.3</br>
 add kuops/addon-resizer:1.4</br>
