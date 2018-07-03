@@ -1,3 +1,4 @@
+add kuops/echoserver-ppc64le:1.8</br>
 add kuops/echoserver-arm:1.8</br>
 add kuops/echoserver-amd64:1.9</br>
 add kuops/echoserver-amd64:1.10</br>
