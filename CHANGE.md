@@ -1,3 +1,4 @@
+add kuops/debian-iptables:v1</br>
 add kuops/debian-hyperkube-base-s390x:0.4</br>
 add kuops/debian-hyperkube-base-s390x:0.4.1</br>
 add kuops/debian-hyperkube-base-s390x:0.5</br>
