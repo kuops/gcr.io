@@ -1,3 +1,7 @@
+add kuops/debian-base-amd64:0.1.0</br>
+add kuops/debian-base-amd64:0.2</br>
+add kuops/debian-base-amd64:0.1</br>
+add kuops/debian-base-amd64:0.3</br>
 add kuops/custom-metrics-stackdriver-adapter:testing</br>
 add kuops/custom-metrics-stackdriver-adapter:staging</br>
 add kuops/custom-metrics-stackdriver-adapter:v0.7.0</br>
