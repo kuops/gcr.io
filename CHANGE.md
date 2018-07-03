@@ -1,3 +1,4 @@
+add kuops/dnsmasq-amd64:1.1</br>
 add kuops/dnsmasq:1.1</br>
 add kuops/dnsmasq:1.0</br>
 add kuops/dns-rc-autoscaler:0.5</br>
