@@ -1,3 +1,4 @@
+add kuops/etcd-statefulset-e2e-test:0.0</br>
 add kuops/etcd-s390x:3.1.12</br>
 add kuops/etcd-s390x:3.2.17</br>
 add kuops/etcd-s390x:3.1.13-0</br>
