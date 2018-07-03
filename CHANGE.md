@@ -1,3 +1,12 @@
+add kuops/cluster-proportional-autoscaler-amd64:1.0.0</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.0</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.0-r2</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.1</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.1-r2</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.2</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.0-r3</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.1-r3</br>
+add kuops/cluster-proportional-autoscaler-amd64:1.1.2-r2</br>
 add kuops/cluster-autoscaler:v1.2.1</br>
 add kuops/cluster-autoscaler:v1.0.5</br>
 add kuops/cluster-autoscaler:v1.2.0-rc3</br>
