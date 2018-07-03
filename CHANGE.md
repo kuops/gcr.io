@@ -1,3 +1,13 @@
+add kuops/etcd:3.1.13</br>
+add kuops/etcd:3.1.13-0</br>
+add kuops/etcd:3.1.12-0</br>
+add kuops/etcd:3.2.18</br>
+add kuops/etcd:3.1.12-1</br>
+add kuops/etcd:v3.3.8-0-gke.1</br>
+add kuops/etcd:3.2.18-0</br>
+add kuops/etcd:3.1.15</br>
+add kuops/etcd:3.1.16</br>
+add kuops/etcd:3.1.17</br>
 add kuops/eptest:0.1</br>
 add kuops/elasticsearch:v2.4.1-1</br>
 add kuops/elasticsearch:v5.6.4</br>
