@@ -1,3 +1,10 @@
+add kuops/custom-metrics-stackdriver-adapter:testing</br>
+add kuops/custom-metrics-stackdriver-adapter:staging</br>
+add kuops/custom-metrics-stackdriver-adapter:v0.7.0</br>
+add kuops/custom-metrics-stackdriver-adapter:v0.8.0</br>
+add kuops/custom-metrics-stackdriver-adapter:v0.6.0</br>
+add kuops/custom-metrics-stackdriver-adapter:v0.4.0</br>
+add kuops/custom-metrics-stackdriver-adapter:v0.5.0</br>
 add kuops/cuda-vector-add:v0.1</br>
 add kuops/cpvpa-amd64:v0.6.0</br>
 add kuops/cos-nvidia-driver-install:67c03542180d35eefe6064f3c8235f331173fc4b</br>
