@@ -1,3 +1,7 @@
+add kuops/debian-base-s390x:0.1.0</br>
+add kuops/debian-base-s390x:0.2</br>
+add kuops/debian-base-s390x:0.1</br>
+add kuops/debian-base-s390x:0.3</br>
 add kuops/debian-base-ppc64le:0.1.0</br>
 add kuops/debian-base-ppc64le:0.1</br>
 add kuops/debian-base-ppc64le:0.2</br>
