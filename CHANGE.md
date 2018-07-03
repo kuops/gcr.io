@@ -1,3 +1,4 @@
+add kuops/dnsmasq-metrics-arm:1.0</br>
 add kuops/dnsmasq-metrics-amd64:1.0</br>
 add kuops/dnsmasq-metrics-amd64:1.0.1</br>
 add kuops/dnsmasq-amd64:1.1</br>
