@@ -1,3 +1,5 @@
+add kuops/defaultbackend-s390x:1.4</br>
+add kuops/defaultbackend-s390x:1.3</br>
 add kuops/defaultbackend-ppc64le:1.3</br>
 add kuops/defaultbackend-ppc64le:1.2</br>
 add kuops/defaultbackend-ppc64le:1.4</br>
