@@ -1,3 +1,8 @@
+add kuops/debian-iptables-ppc64le:v5</br>
+add kuops/debian-iptables-ppc64le:v9</br>
+add kuops/debian-iptables-ppc64le:v7</br>
+add kuops/debian-iptables-ppc64le:v8</br>
+add kuops/debian-iptables-ppc64le:v10</br>
 add kuops/debian-iptables-arm64:v5</br>
 add kuops/debian-iptables-arm64:v8</br>
 add kuops/debian-iptables-arm64:v7</br>
