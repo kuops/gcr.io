@@ -1,3 +1,4 @@
+add kuops/etcd_probe_shyamjvs:test</br>
 add kuops/etcd_monitor_shyamjvs:test</br>
 add kuops/etcd-version-monitor-shyamjvs:test</br>
 add kuops/etcd-version-monitor:0.1.0</br>
