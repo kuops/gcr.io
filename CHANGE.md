@@ -1,3 +1,4 @@
+add kuops/example-dns-backend:v1</br>
 add kuops/event-exporter:v0.1.3</br>
 add kuops/event-exporter:v0.1.5</br>
 add kuops/event-exporter:v0.1.0-r2</br>
