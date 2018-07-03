@@ -1,3 +1,14 @@
+add kuops/cadvisor:v0.28.2</br>
+add kuops/cadvisor:v0.27.3</br>
+add kuops/cadvisor:v0.26.3</br>
+add kuops/cadvisor:latest</br>
+add kuops/cadvisor:v0.28.3</br>
+add kuops/cadvisor:v0.27.4</br>
+add kuops/cadvisor:v0.29.0</br>
+add kuops/cadvisor:v0.28.4</br>
+add kuops/cadvisor:v0.29.2</br>
+add kuops/cadvisor:v0.28.5</br>
+add kuops/cadvisor:v0.30.2</br>
 add kuops/busybox:latest</br>
 add kuops/busybox:1.24</br>
 add kuops/busybox:1.27.2</br>
