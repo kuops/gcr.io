@@ -1,3 +1,4 @@
+add kuops/addon-resizer-s390x:2.1</br>
 add kuops/addon-resizer-ppc64le:2.1</br>
 add kuops/addon-resizer-arm64:2.1</br>
 add kuops/addon-resizer-arm:2.1</br>
