@@ -1,3 +1,4 @@
+add kuops/flannel-arm64:0.5.5</br>
 add kuops/flannel-arm:0.5.5</br>
 add kuops/flannel-amd64:0.5.5</br>
 add kuops/fetcher:v20160825</br>
