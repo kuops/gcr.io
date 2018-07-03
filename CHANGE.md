@@ -1,3 +1,8 @@
+add kuops/defaultbackend:1.0</br>
+add kuops/defaultbackend:1.1</br>
+add kuops/defaultbackend:1.2</br>
+add kuops/defaultbackend:1.3</br>
+add kuops/defaultbackend:1.4</br>
 add kuops/debian-iptables-s390x:v5</br>
 add kuops/debian-iptables-s390x:v7</br>
 add kuops/debian-iptables-s390x:v8</br>
