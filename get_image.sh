@@ -109,7 +109,6 @@ image_push() {
             mkdir $IMAGE_NAME
         fi
         TAG_LIST=($(gcloud container images list-tags $GCR_IMAGE_NAME  --format="get(TAGS)"|grep -v '^$'|xargs|sed 's@;@ @g'))
-        clean_images
         for i in ${TAG_LIST[@]};do
             IMAGE_TAG_SHA=$(gcloud container images list-tags ${GCR_IMAGE_NAME} --filter="tags~^$i$" --format="get(DIGEST)")
             if [ -f $IMAGE_NAME/$i ];then
@@ -122,6 +121,7 @@ image_push() {
             fi
         done
         wait
+        clean_images
         git_add
     done < repository-file
     if [ ${#ADD_TAG} -ne 0 ];then
