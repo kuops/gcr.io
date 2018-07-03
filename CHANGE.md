@@ -1,3 +1,12 @@
+add kuops/etcd-empty-dir-cleanup:0.0.2</br>
+add kuops/etcd-empty-dir-cleanup:3.0.14.0</br>
+add kuops/etcd-empty-dir-cleanup:0.0.3</br>
+add kuops/etcd-empty-dir-cleanup:3.1.11.0</br>
+add kuops/etcd-empty-dir-cleanup:3.1.13.0</br>
+add kuops/etcd-empty-dir-cleanup:3.1.10.0</br>
+add kuops/etcd-empty-dir-cleanup:3.2.18.0</br>
+add kuops/etcd-empty-dir-cleanup:3.1.12.0</br>
+add kuops/etcd-empty-dir-cleanup:3.2.17.0</br>
 add kuops/etcd-arm64:3.1.17</br>
 add kuops/etcd-arm64:3.1.16</br>
 add kuops/etcd-arm64:3.1.12</br>
