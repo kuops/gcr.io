@@ -122,7 +122,6 @@ image_push() {
                 tag_push &
                 let PROGRESS_COUNT++
             fi
-            echo "syncing image $MY_REPO/$IMAGE_NAME\:${i}"
             COUNT_WAIT=$[$PROGRESS_COUNT%50]
             if [ $COUNT_WAIT -eq 0 ];then
                 wait
@@ -130,6 +129,7 @@ image_push() {
                git_add
             fi
         done
+        echo "syncing image $MY_REPO/$IMAGE_NAME"
     done < repository-file
     if [ ${#ADD_TAG} -ne 0 ];then
         sed -i "1i-------------------------------at $(date +'%F %T') sync image repositorys-------------------------------"  CHANGE.md
