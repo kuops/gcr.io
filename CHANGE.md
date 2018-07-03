@@ -1,3 +1,4 @@
+add kuops/e2e-net-amd64:1.0</br>
 add kuops/dnsutils:latest</br>
 add kuops/dnsutils:1.0-alpine</br>
 add kuops/dnsutils:e2e</br>
