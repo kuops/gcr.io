@@ -1,3 +1,6 @@
+add kuops/check-metadata-concealment:v0.0.1</br>
+add kuops/check-metadata-concealment:v0.0.2</br>
+add kuops/check-metadata-concealment:v0.0.3</br>
 add kuops/cassandra-e2e-test:0.0</br>
 add kuops/cassandra:v3</br>
 add kuops/cassandra:v2</br>
