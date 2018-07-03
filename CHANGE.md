@@ -1,3 +1,7 @@
+add kuops/defaultbackend-arm64:1.1</br>
+add kuops/defaultbackend-arm64:1.2</br>
+add kuops/defaultbackend-arm64:1.3</br>
+add kuops/defaultbackend-arm64:1.4</br>
 add kuops/defaultbackend-arm:1.1</br>
 add kuops/defaultbackend-arm:1.3</br>
 add kuops/defaultbackend-arm:1.2</br>
