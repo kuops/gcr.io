@@ -1,3 +1,12 @@
+add kuops/device-plugin-gpu:bfbe54f353b9846443198cb0c661a5771a9dece4</br>
+add kuops/device-plugin-gpu:0621d410516b170ce8bcc0223fb70240d340ae82</br>
+add kuops/device-plugin-gpu:8fbb14d0612cff8ad955521129ae3af480006f90</br>
+add kuops/device-plugin-gpu:bcda4c455e672d842befc031d642ae5ec9fb22da</br>
+add kuops/device-plugin-gpu:65ddc11722b68376231643ef3b20f6a9ddce20c5</br>
+add kuops/device-plugin-gpu:2996180265d2a38e8f9e3d0115d26d7054a971cf</br>
+add kuops/device-plugin-gpu:4152c69f44df10e9cbcc2b4083e60679c7ee1ac0</br>
+add kuops/device-plugin-gpu:eb2afd3a5758ad069715eece70e3027273dc4ec1</br>
+add kuops/device-plugin-gpu:2d9622a3cc8ff9c5dab716a3ccdfdb42f848efea</br>
 add kuops/defaultbackend-s390x:1.4</br>
 add kuops/defaultbackend-s390x:1.3</br>
 add kuops/defaultbackend-ppc64le:1.3</br>
