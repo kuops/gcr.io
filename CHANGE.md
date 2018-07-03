@@ -1,3 +1,8 @@
+add kuops/debian-iptables-arm:v5</br>
+add kuops/debian-iptables-arm:v8</br>
+add kuops/debian-iptables-arm:v7</br>
+add kuops/debian-iptables-arm:v9</br>
+add kuops/debian-iptables-arm:v10</br>
 add kuops/debian-iptables-amd64:v5</br>
 add kuops/debian-iptables-amd64:v9</br>
 add kuops/debian-iptables-amd64:v8</br>
