@@ -1,3 +1,6 @@
+add kuops/exechealthz:1.1</br>
+add kuops/exechealthz:1.0</br>
+add kuops/exechealthz:1.2</br>
 add kuops/example-guestbook-php-redis:v3</br>
 add kuops/example-guestbook-php-redis:v2</br>
 add kuops/example-dns-frontend:v1</br>
