@@ -1,3 +1,12 @@
+add kuops/elasticsearch:v2.4.1-1</br>
+add kuops/elasticsearch:v5.6.4</br>
+add kuops/elasticsearch:v2.4.1-2</br>
+add kuops/elasticsearch:v5.6.2</br>
+add kuops/elasticsearch:v5.5.1</br>
+add kuops/elasticsearch:v5.4.0-1</br>
+add kuops/elasticsearch:v2.4.1-3</br>
+add kuops/elasticsearch:v5.5.1-1</br>
+add kuops/elasticsearch:v6.2.4</br>
 add kuops/echoserver-ppc64le:1.8</br>
 add kuops/echoserver-arm:1.8</br>
 add kuops/echoserver-amd64:1.9</br>
