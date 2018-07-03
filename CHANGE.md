@@ -1,3 +1,4 @@
+add kuops/cuda-vector-add:v0.1</br>
 add kuops/cpvpa-amd64:v0.6.0</br>
 add kuops/cos-nvidia-driver-install:67c03542180d35eefe6064f3c8235f331173fc4b</br>
 add kuops/cos-nvidia-driver-install:459240fa62edec299c557ec56e6aa6cedd8c7d42</br>
