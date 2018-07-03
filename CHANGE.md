@@ -1,3 +1,11 @@
+add kuops/debian-hyperkube-base-amd64:0.4</br>
+add kuops/debian-hyperkube-base-amd64:0.6</br>
+add kuops/debian-hyperkube-base-amd64:0.5</br>
+add kuops/debian-hyperkube-base-amd64:0.4.1</br>
+add kuops/debian-hyperkube-base-amd64:0.8</br>
+add kuops/debian-hyperkube-base-amd64:0.7</br>
+add kuops/debian-hyperkube-base-amd64:0.10</br>
+add kuops/debian-hyperkube-base-amd64:0.9</br>
 add kuops/debian-base-s390x:0.1.0</br>
 add kuops/debian-base-s390x:0.2</br>
 add kuops/debian-base-s390x:0.1</br>
