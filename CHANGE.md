@@ -1,3 +1,11 @@
+add kuops/fluentd-gcp:1.28.2-alpha2</br>
+add kuops/fluentd-elasticsearch:1.5</br>
+add kuops/fluentd-elasticsearch:1.6b</br>
+add kuops/fluentd-elasticsearch:1.9</br>
+add kuops/fluentd-elasticsearch:1.8</br>
+add kuops/fluentd-elasticsearch:1.7</br>
+add kuops/fluentd-elasticsearch:1.11</br>
+add kuops/fluentd-elasticsearch:1.12</br>
 add kuops/fluentd-elasticsearch:1.16</br>
 add kuops/fluentd-elasticsearch:1.14</br>
 add kuops/fluentd-elasticsearch:1.15</br>
