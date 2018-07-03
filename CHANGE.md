@@ -1,3 +1,9 @@
+add kuops/cassandra:v3</br>
+add kuops/cassandra:v2</br>
+add kuops/cassandra:v4</br>
+add kuops/cassandra:v5</br>
+add kuops/cassandra:v6</br>
+add kuops/cassandra:v7</br>
 add kuops/cadvisor:v0.28.2</br>
 add kuops/cadvisor:v0.27.3</br>
 add kuops/cadvisor:v0.26.3</br>
