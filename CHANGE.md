@@ -1,3 +1,4 @@
+add kuops/fluentd-journal-gcp:1.0</br>
 add kuops/fluentd-gcp-scaler:0.1</br>
 add kuops/fluentd-gcp-scaler:0.3</br>
 add kuops/fluentd-gcp-scaler:0.2</br>
