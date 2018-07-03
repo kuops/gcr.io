@@ -1,3 +1,8 @@
+add kuops/debian-iptables-amd64:v5</br>
+add kuops/debian-iptables-amd64:v9</br>
+add kuops/debian-iptables-amd64:v8</br>
+add kuops/debian-iptables-amd64:v7</br>
+add kuops/debian-iptables-amd64:v10</br>
 add kuops/debian-iptables:v1</br>
 add kuops/debian-hyperkube-base-s390x:0.4</br>
 add kuops/debian-hyperkube-base-s390x:0.4.1</br>
