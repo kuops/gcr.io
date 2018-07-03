@@ -1,3 +1,4 @@
+add kuops/aggregator:2015-11-10-34b976a</br>
 add kuops/addon-resizer-s390x:2.1</br>
 add kuops/addon-resizer-ppc64le:2.1</br>
 add kuops/addon-resizer-arm64:2.1</br>
