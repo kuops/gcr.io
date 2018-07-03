@@ -1,3 +1,5 @@
+add kuops/example-guestbook-php-redis:v3</br>
+add kuops/example-guestbook-php-redis:v2</br>
 add kuops/example-dns-frontend:v1</br>
 add kuops/example-dns-backend:v1</br>
 add kuops/event-exporter:v0.1.3</br>
