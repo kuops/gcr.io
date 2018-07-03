@@ -1,3 +1,8 @@
+add kuops/hyperkube:v1.8.8-beta.0</br>
+add kuops/hyperkube:v1.10.1-beta.0</br>
+add kuops/hyperkube:v1.9.7-beta.0</br>
+add kuops/hyperkube:v1.8.11-beta.0</br>
+add kuops/hyperkube:v1.8.11</br>
 add kuops/hyperkube:v1.9.7</br>
 add kuops/hyperkube:v1.9.8-beta.0</br>
 add kuops/hyperkube:v1.10.2-beta.0</br>
