@@ -1,3 +1,4 @@
+add kuops/flannel-amd64:0.5.5</br>
 add kuops/fetcher:v20160825</br>
 add kuops/fetcher:latest</br>
 add kuops/federation-controller-manager-ppc64le:v1.3.3</br>
