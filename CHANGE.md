@@ -1,3 +1,8 @@
+add kuops/debian-iptables-s390x:v5</br>
+add kuops/debian-iptables-s390x:v7</br>
+add kuops/debian-iptables-s390x:v8</br>
+add kuops/debian-iptables-s390x:v9</br>
+add kuops/debian-iptables-s390x:v10</br>
 add kuops/debian-iptables-ppc64le:v5</br>
 add kuops/debian-iptables-ppc64le:v9</br>
 add kuops/debian-iptables-ppc64le:v7</br>
