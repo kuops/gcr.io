@@ -1,3 +1,12 @@
+add kuops/cos-nvidia-driver-install:67c03542180d35eefe6064f3c8235f331173fc4b</br>
+add kuops/cos-nvidia-driver-install:459240fa62edec299c557ec56e6aa6cedd8c7d42</br>
+add kuops/cos-nvidia-driver-install:d134869f199dbd06052bf0d1a03dd9193e8ff5a6</br>
+add kuops/cos-nvidia-driver-install:4cb5f4edf3289d68dcaf8b84e1b395ae12fd0df6</br>
+add kuops/cos-nvidia-driver-install:0cf0d7ab17e346847d38e8cd034dba0c1bab12f6</br>
+add kuops/cos-nvidia-driver-install:c696364e825e3e2c7a5a74f19150fab893c2332c</br>
+add kuops/cos-nvidia-driver-install:1ad9c1fe79e9b6ccbde2fba06c06277a978a86f0</br>
+add kuops/cos-nvidia-driver-install:v0.4</br>
+add kuops/cos-nvidia-driver-install:v0.3</br>
 add kuops/coredns:1.1.3</br>
 add kuops/coredns:1.1.3__amd64_linux</br>
 add kuops/coredns:1.1.3__arm_linux</br>
