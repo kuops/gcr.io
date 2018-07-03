@@ -1,3 +1,10 @@
+add kuops/cluster-proportional-autoscaler-ppc64le:1.0.0</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.0</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.1</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.2</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.0-r3</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.1-r3</br>
+add kuops/cluster-proportional-autoscaler-ppc64le:1.1.2-r2</br>
 add kuops/cluster-proportional-autoscaler-arm64:1.0.0</br>
 add kuops/cluster-proportional-autoscaler-arm64:1.1.2</br>
 add kuops/cluster-proportional-autoscaler-arm64:1.1.0</br>
