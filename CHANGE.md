@@ -1,3 +1,4 @@
+add kuops/cassandra-e2e-test:0.0</br>
 add kuops/cassandra:v3</br>
 add kuops/cassandra:v2</br>
 add kuops/cassandra:v4</br>
