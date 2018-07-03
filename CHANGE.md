@@ -1,3 +1,5 @@
+add kuops/dnsmasq:1.1</br>
+add kuops/dnsmasq:1.0</br>
 add kuops/dns-rc-autoscaler:0.5</br>
 add kuops/dns-rc-autoscaler:0.6</br>
 add kuops/dns-pod-autoscaler:0.5</br>
