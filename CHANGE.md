@@ -1,3 +1,11 @@
+add kuops/debian-hyperkube-base-ppc64le:0.4</br>
+add kuops/debian-hyperkube-base-ppc64le:0.5</br>
+add kuops/debian-hyperkube-base-ppc64le:0.6</br>
+add kuops/debian-hyperkube-base-ppc64le:0.4.1</br>
+add kuops/debian-hyperkube-base-ppc64le:0.7</br>
+add kuops/debian-hyperkube-base-ppc64le:0.8</br>
+add kuops/debian-hyperkube-base-ppc64le:0.10</br>
+add kuops/debian-hyperkube-base-ppc64le:0.9</br>
 add kuops/debian-hyperkube-base-arm64:0.5</br>
 add kuops/debian-hyperkube-base-arm64:0.4.1</br>
 add kuops/debian-hyperkube-base-arm64:0.6</br>
