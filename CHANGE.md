@@ -1,3 +1,9 @@
+add kuops/coredns:1.1.3</br>
+add kuops/coredns:1.1.3__amd64_linux</br>
+add kuops/coredns:1.1.3__arm_linux</br>
+add kuops/coredns:1.1.3__arm64_linux</br>
+add kuops/coredns:1.1.3__ppc64le_linux</br>
+add kuops/coredns:1.1.3__s390x_linux</br>
 add kuops/clusterregistry:v0.0.0-test.1</br>
 add kuops/clusterapi-tester:1.0</br>
 add kuops/cluster-proportional-autoscaler-ppc64le:1.0.0</br>
