@@ -1,3 +1,13 @@
+add kuops/echoserver:1.4</br>
+add kuops/echoserver:1.1</br>
+add kuops/echoserver:1.3</br>
+add kuops/echoserver:1.2</br>
+add kuops/echoserver:1.6</br>
+add kuops/echoserver:1.5</br>
+add kuops/echoserver:1.8</br>
+add kuops/echoserver:1.9</br>
+add kuops/echoserver:1.10</br>
+add kuops/echoserver:1.7</br>
 add kuops/e2e-net-amd64:1.0</br>
 add kuops/dnsutils:latest</br>
 add kuops/dnsutils:1.0-alpine</br>
