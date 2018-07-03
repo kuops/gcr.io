@@ -1,3 +1,8 @@
+add kuops/exechealthz-arm:1.0</br>
+add kuops/exechealthz-arm:0.0</br>
+add kuops/exechealthz-arm:1.2</br>
+add kuops/exechealthz-arm:1.1</br>
+add kuops/exechealthz-arm:v1.2.0</br>
 add kuops/exechealthz-amd64:v1.3.0</br>
 add kuops/exechealthz-amd64:1.2</br>
 add kuops/exechealthz-amd64:1.0</br>
