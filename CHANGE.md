@@ -1,3 +1,4 @@
+add kuops/eptest:0.1</br>
 add kuops/elasticsearch:v2.4.1-1</br>
 add kuops/elasticsearch:v5.6.4</br>
 add kuops/elasticsearch:v2.4.1-2</br>
