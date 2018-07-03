@@ -1,3 +1,6 @@
+add kuops/dnsutils:latest</br>
+add kuops/dnsutils:1.0-alpine</br>
+add kuops/dnsutils:e2e</br>
 add kuops/dnsmasq-metrics-ppc64le:1.0</br>
 add kuops/dnsmasq-metrics-arm64:1.0</br>
 add kuops/dnsmasq-metrics-arm:1.0</br>
