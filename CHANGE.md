@@ -1,3 +1,5 @@
+add kuops/exechealthz-s390x:81a86332</br>
+add kuops/exechealthz-s390x:1.2</br>
 add kuops/exechealthz-ppc64le:1.0</br>
 add kuops/exechealthz-ppc64le:1.2</br>
 add kuops/exechealthz-ppc64le:1.1</br>
