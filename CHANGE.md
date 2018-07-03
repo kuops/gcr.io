@@ -1,3 +1,4 @@
+add kuops/dns-pod-autoscaler:0.5</br>
 add kuops/device-plugin-gpu:bfbe54f353b9846443198cb0c661a5771a9dece4</br>
 add kuops/device-plugin-gpu:0621d410516b170ce8bcc0223fb70240d340ae82</br>
 add kuops/device-plugin-gpu:8fbb14d0612cff8ad955521129ae3af480006f90</br>
