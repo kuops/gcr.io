@@ -1,3 +1,13 @@
+add kuops/event-exporter:v0.1.3</br>
+add kuops/event-exporter:v0.1.5</br>
+add kuops/event-exporter:v0.1.0-r2</br>
+add kuops/event-exporter:v0.1.4</br>
+add kuops/event-exporter:v0.1.7</br>
+add kuops/event-exporter:v0.1.6</br>
+add kuops/event-exporter:v0.2.0</br>
+add kuops/event-exporter:v0.1.8</br>
+add kuops/event-exporter:v0.2.1</br>
+add kuops/event-exporter:v0.1.9</br>
 add kuops/etcd_version_monitor_shyamjvs:test</br>
 add kuops/etcd_version_monitor:test</br>
 add kuops/etcd_probe_shyamjvs:test</br>
