@@ -1,3 +1,5 @@
+add kuops/fetcher:v20160825</br>
+add kuops/fetcher:latest</br>
 add kuops/federation-controller-manager-ppc64le:v1.3.3</br>
 add kuops/federation-controller-manager-ppc64le:v1.3.3-beta.0</br>
 add kuops/federation-controller-manager-ppc64le:v1.3.4-beta.0</br>
