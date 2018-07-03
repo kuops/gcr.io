@@ -1,3 +1,7 @@
+add kuops/busybox:latest</br>
+add kuops/busybox:1.24</br>
+add kuops/busybox:1.27.2</br>
+add kuops/busybox:1.27</br>
 add kuops/apparmor-loader:0.1</br>
 add kuops/apparmor-loader:latest</br>
 add kuops/apparmor-loader:0.2</br>
