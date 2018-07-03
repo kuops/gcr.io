@@ -1,3 +1,4 @@
+add kuops/alpine-iptables-arm64:v6</br>
 add kuops/alpine-iptables-arm:v6</br>
 add kuops/alpine-iptables-amd64:v6</br>
 add kuops/aggregator:2015-11-10-34b976a</br>
