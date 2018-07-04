@@ -63,7 +63,7 @@ initial_sdk(){
     if [ $AUTH_COUNT -eq 0 ];then
         gcloud auth activate-service-account --key-file=$HOME/gcloud.config.json
     else
-        echo "gclout service account is exsits"
+        echo "gcloud service account is exsits"
     fi
 }
 
@@ -105,17 +105,17 @@ image_push() {
     fi
     PROGRESS_COUNT=0
     while read GCR_IMAGE_NAME;do
+        IMAGE_INFO_JSON=$(gcloud container images list-tags gcr.io/google-containers/gke-mpi-metadata-server  --filter="tags:*" --format=json)
+        TAG_INFO_JSON=$(echo "IMAGE_INFO_JSON"|jq '.[]|{ tag: .tags[] ,digest: .digest }')
+        TAG_LIST=($(echo "$TAG_INFO_JSON"|jq -r .tag))
         IMAGE_NAME=${GCR_IMAGE_NAME##*/}
-        if ! [ -d $IMAGE_NAME ];then
-            mkdir $IMAGE_NAME
-        fi
-        TAG_LIST=($(gcloud container images list-tags $GCR_IMAGE_NAME  --format="get(TAGS)"|grep -v '^$'|xargs|sed 's@;@ @g'))
         for i in ${TAG_LIST[@]};do
-            IMAGE_TAG_SHA=$(gcloud container images list-tags ${GCR_IMAGE_NAME} --filter="tags~^$i$" --format="get(DIGEST)")
+            JQ_SELECT=$(echo "jq -r 'select(.tag == \"$i\")|.digest'")
+            IMAGE_TAG_SHA=$(echo "TAG_INFO_JSON"|$JQ_SELECT)
             if [ -f $IMAGE_NAME/$i ];then
                 echo "$IMAGE_TAG_SHA"  > /tmp/diff.txt
                 if ! diff /tmp/diff.txt $IMAGE_NAME/$i &> /dev/null ;then
-                     tag_push & 
+                     tag_push &
                      let PROGRESS_COUNT++
                 fi
             else
