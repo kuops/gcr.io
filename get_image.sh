@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ex
+set -x
 REPOSITORY=gcr.io/google-containers
 MY_REPO=kuops
 
@@ -8,7 +8,6 @@ git_init(){
     git config --global user.email opshsy@gmail.com
     git remote rm origin
     git remote add origin git@github.com:kuops/gcr.io.git
-    git branch --set-upstream-to=origin/master master
     git pull --rebase
     if git branch -a |grep 'origin/develop' &> /dev/null ;then
         git checkout develop
