@@ -1,3 +1,5 @@
+add kuops/hyperkube-arm:v1.6.5-beta.0</br>
+add kuops/hyperkube-arm:v1.7.1</br>
 add kuops/hyperkube-arm:v1.6.10</br>
 add kuops/hyperkube-arm:v1.6.8</br>
 add kuops/hyperkube-arm:v1.5.9-beta.0</br>
