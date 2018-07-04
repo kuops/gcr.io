@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 REPOSITORY=gcr.io/google-containers
 MY_REPO=kuops
 
