@@ -1,3 +1,5 @@
+add kuops/hyperkube-ppc64le:v1.6.0-beta.3</br>
+add kuops/hyperkube-ppc64le:v1.8.0-alpha.0</br>
 add kuops/hyperkube-ppc64le:v1.6.7-beta.0</br>
 add kuops/hyperkube-ppc64le:v1.6.6-beta.0</br>
 add kuops/hyperkube-ppc64le:v1.7.0-beta.2</br>
