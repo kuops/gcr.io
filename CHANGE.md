@@ -1,3 +1,7 @@
+add kuops/hyperkube-amd64:v1.7.8</br>
+add kuops/hyperkube-amd64:v1.6.12</br>
+add kuops/hyperkube-amd64:v1.7.11-beta.0</br>
+add kuops/hyperkube-amd64:v1.7.10</br>
 add kuops/hyperkube-amd64:v1.6.14-beta.0</br>
 add kuops/hyperkube-amd64:v1.7.12-beta.0</br>
 add kuops/hyperkube-amd64:v1.9.0-beta.0</br>
