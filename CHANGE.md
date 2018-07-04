@@ -1,3 +1,5 @@
+add kuops/hyperkube-arm64:v1.3.10</br>
+add kuops/hyperkube-arm64:v1.5.1</br>
 add kuops/hyperkube-arm64:v1.5.3</br>
 add kuops/hyperkube-arm64:v1.6.0-rc.1</br>
 add kuops/hyperkube-arm64:v1.5.6</br>
