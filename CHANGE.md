@@ -1,3 +1,14 @@
+add kuops/hyperkube:v0.15.0</br>
+add kuops/hyperkube:v1.1.1</br>
+add kuops/hyperkube:v1.0.7</br>
+add kuops/hyperkube:v1.2.0-beta.0</br>
+add kuops/hyperkube:v1.2.0-beta.1</br>
+add kuops/hyperkube:v1.2.0</br>
+add kuops/hyperkube:v1.1.8</br>
+add kuops/hyperkube:v1.1.4</br>
+add kuops/hyperkube:v1.2.0-alpha.8</br>
+add kuops/hyperkube:v1.3.0-alpha.0</br>
+add kuops/hyperkube:v1.1.9-beta.0</br>
 add kuops/hyperkube:v1.3.0-alpha.5</br>
 add kuops/hyperkube:v1.3.0-alpha.3</br>
 add kuops/hyperkube:v1.3.0-alpha.4</br>
