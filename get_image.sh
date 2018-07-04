@@ -120,7 +120,7 @@ image_push() {
                 tag_push &
                 let PROGRESS_COUNT++
             fi
-            COUNT_WAIT=$[$PROGRESS_COUNT%50]
+            COUNT_WAIT=$[$PROGRESS_COUNT%30]
             if [ $COUNT_WAIT -eq 0 ];then
                 wait
                clean_images
