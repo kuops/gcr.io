@@ -10,9 +10,11 @@ git_init(){
     git pull
     if git branch -a |grep 'origin/develop' &> /dev/null ;then
         git checkout develop
+        git pull
         git branch --set-upstream-to=origin/develop develop
     else
         git checkout -b develop
+        git pull
     fi
 }
 
