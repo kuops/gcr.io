@@ -105,13 +105,13 @@ image_push() {
     fi
     PROGRESS_COUNT=0
     while read GCR_IMAGE_NAME;do
-        IMAGE_INFO_JSON=$(gcloud container images list-tags gcr.io/google-containers/gke-mpi-metadata-server  --filter="tags:*" --format=json)
-        TAG_INFO_JSON=$(echo "IMAGE_INFO_JSON"|jq '.[]|{ tag: .tags[] ,digest: .digest }')
+        IMAGE_INFO_JSON=$(gcloud container images list-tags $GCR_IMAGE_NAME  --filter="tags:*" --format=json)
+        TAG_INFO_JSON=$(echo "$IMAGE_INFO_JSON"|jq '.[]|{ tag: .tags[] ,digest: .digest }')
         TAG_LIST=($(echo "$TAG_INFO_JSON"|jq -r .tag))
         IMAGE_NAME=${GCR_IMAGE_NAME##*/}
         for i in ${TAG_LIST[@]};do
             JQ_SELECT=$(echo "jq -r 'select(.tag == \"$i\")|.digest'")
-            IMAGE_TAG_SHA=$(echo "TAG_INFO_JSON"|$JQ_SELECT)
+            IMAGE_TAG_SHA=$(echo "$TAG_INFO_JSON"|$JQ_SELECT)
             if [ -f $IMAGE_NAME/$i ];then
                 echo "$IMAGE_TAG_SHA"  > /tmp/diff.txt
                 if ! diff /tmp/diff.txt $IMAGE_NAME/$i &> /dev/null ;then
