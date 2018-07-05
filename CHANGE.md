@@ -1,3 +1,6 @@
+add kuops/kube-proxy-amd64:v1.3.1-beta.1</br>
+add kuops/kube-proxy-amd64:v1.4.0-beta.0</br>
+add kuops/kube-proxy-amd64:v1.3.7</br>
 add kuops/kube-proxy-amd64:v1.3.10</br>
 add kuops/kube-proxy-amd64:v1.4.8</br>
 add kuops/kube-proxy-amd64:v1.5.0-beta.1</br>
