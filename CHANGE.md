@@ -1,3 +1,7 @@
+add kuops/kube-apiserver-amd64:v1.3.3-beta.0</br>
+add kuops/kube-apiserver-amd64:v1.4.0-beta.7</br>
+add kuops/kube-apiserver-amd64:v1.4.2-beta.1</br>
+add kuops/kube-apiserver-amd64:v1.5.0-alpha.1</br>
 add kuops/kube-apiserver-amd64:v1.4.5</br>
 add kuops/kube-apiserver-amd64:v1.4.3</br>
 add kuops/kube-apiserver-amd64:v1.3.8</br>
