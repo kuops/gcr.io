@@ -1,3 +1,9 @@
+add kuops/kube-apiserver-ppc64le:v1.3.0</br>
+add kuops/kube-apiserver-ppc64le:v1.3.1-beta.0</br>
+add kuops/kube-apiserver-ppc64le:v1.6.0-beta.2</br>
+add kuops/kube-apiserver-ppc64le:v1.6.0-beta.1</br>
+add kuops/kube-apiserver-ppc64le:v1.6.0-alpha.3</br>
+add kuops/kube-apiserver-ppc64le:v1.6.0-beta.0</br>
 add kuops/kube-apiserver-ppc64le:v1.6.7</br>
 add kuops/kube-apiserver-ppc64le:v1.6.2</br>
 add kuops/kube-apiserver-ppc64le:v1.7.0-beta.2</br>
