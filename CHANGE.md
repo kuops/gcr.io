@@ -1,3 +1,16 @@
+add kuops/kube-controller-manager:v1.8.11-beta.0</br>
+add kuops/kube-controller-manager:v1.10.2-beta.0</br>
+add kuops/kube-controller-manager:v1.10.3-beta.0</br>
+add kuops/kube-controller-manager:v1.8.11</br>
+add kuops/kube-controller-manager:v1.10.1</br>
+add kuops/kube-controller-manager:v1.11.0-beta.0</br>
+add kuops/kube-controller-manager:v1.12.0-alpha.0</br>
+add kuops/kube-controller-manager:v1.8.14-beta.0</br>
+add kuops/kube-controller-manager:v1.10.4-beta.0</br>
+add kuops/kube-controller-manager:v1.11.0-beta.2</br>
+add kuops/kube-controller-manager:v1.10.5-beta.0</br>
+add kuops/kube-controller-manager:v1.10.4</br>
+add kuops/kube-controller-manager:v1.9.9-beta.0</br>
 add kuops/kube-apiserver-s390x:v1.6.0-beta.0</br>
 add kuops/kube-apiserver-s390x:v1.6.0-alpha.2</br>
 add kuops/kube-apiserver-s390x:v1.6.0</br>
