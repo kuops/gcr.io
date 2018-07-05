@@ -1,3 +1,5 @@
+add kuops/kube-controller-manager-arm64:v1.6.6</br>
+add kuops/kube-controller-manager-arm64:v1.7.5</br>
 add kuops/kube-controller-manager-arm64:v1.7.7-beta.0</br>
 add kuops/kube-controller-manager-arm64:v1.6.11-beta.0</br>
 add kuops/kube-controller-manager-arm64:v1.5.8</br>
