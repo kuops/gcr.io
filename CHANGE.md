@@ -1,3 +1,4 @@
+add kuops/kube-cross:v1.6.1-1</br>
 add kuops/kube-cross:v1.7.5-k8s1.5-0</br>
 add kuops/kube-cross:v1.7.4-0</br>
 add kuops/kube-cross:v1.7.1-2</br>
