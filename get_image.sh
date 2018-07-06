@@ -119,6 +119,7 @@ image_push() {
                      let PROGRESS_COUNT++
                 fi
             else
+                mkdir -p $IMAGE_NAME
                 tag_push &
                 let PROGRESS_COUNT++
             fi
