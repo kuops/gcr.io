@@ -1,3 +1,4 @@
+add kuops/zeppelin:v0.5.5_v2</br>
 add kuops/zeppelin:latest</br>
 add kuops/zeppelin:v0.5.6_v1</br>
 add kuops/zeppelin:v0.5.5_v3</br>
