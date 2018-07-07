@@ -1,3 +1,12 @@
+add kuops/ubuntu-nvidia-driver-installer:3c7afd67fe40d7ae91ee0fb2f1b5ec0a41775c10</br>
+add kuops/ubuntu-nvidia-driver-installer:d3011306f5da50c7e52feb38781f4a9717e1d941</br>
+add kuops/ubuntu-nvidia-driver-installer:be78fc2ad63db8b598d341dacb30e37156621a7f</br>
+add kuops/ubuntu-nvidia-driver-installer:862447afba303047d4378262f2501b7de08928a2</br>
+add kuops/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c</br>
+add kuops/ubuntu-nvidia-driver-installer:70a1113ee4ceb413e21c54ca943bc2f4b984117d</br>
+add kuops/ubuntu-nvidia-driver-installer:93cddbb9baf81534f84380f706c2cb7a5aadc2b5</br>
+add kuops/ubuntu-nvidia-driver-installer:3e9582fdf5f9b8ae0d6b822f3c2c48beada9b59f</br>
+add kuops/ubuntu-nvidia-driver-installer:3793d66c9304c67da8a36aa7bed87667ddb65845</br>
 add kuops/toolbox:20161101-00</br>
 add kuops/toolbox:20161012-00</br>
 add kuops/toolbox:20161110-02</br>
