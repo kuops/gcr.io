@@ -1,3 +1,13 @@
+add kuops/volume-ceph:0.1</br>
+add kuops/volume-ceph:latest</br>
+add kuops/volume-gluster:latest</br>
+add kuops/volume-gluster:0.5</br>
+add kuops/ubuntu-slim-ppc64le:0.10</br>
+add kuops/ubuntu-slim-ppc64le:0.9</br>
+add kuops/ubuntu-slim-ppc64le:0.12</br>
+add kuops/ubuntu-slim-ppc64le:0.11</br>
+add kuops/update-demo:nautilus</br>
+add kuops/update-demo:kitten</br>
 add kuops/ubuntu-slim-ppc64le:0.13</br>
 add kuops/ubuntu-slim-ppc64le:0.14</br>
 add kuops/ubuntu-slim-arm64:0.10</br>
