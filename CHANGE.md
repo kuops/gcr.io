@@ -1,3 +1,11 @@
+add kuops/submit-queue:0.5</br>
+add kuops/submit-queue:0.8</br>
+add kuops/submit-queue:0.7</br>
+add kuops/submit-queue:0.3</br>
+add kuops/submit-queue:0.4</br>
+add kuops/kubedns-arm64:1.2.test</br>
+add kuops/kubedns-arm:1.2.test</br>
+add kuops/kubedns-amd64:1.2.test</br>
 add kuops/submit-queue:0.12</br>
 add kuops/submit-queue:2016-03-25-a5608e6</br>
 add kuops/submit-queue:0.10</br>
