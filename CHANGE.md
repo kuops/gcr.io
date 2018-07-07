@@ -1,3 +1,12 @@
+add kuops/tensorflow-gpu-notebook:7dfba60b59f2e88424afcc384384f89bfd545c74</br>
+add kuops/tf-models:1.6.0</br>
+add kuops/test-webserver:latest</br>
+add kuops/test-webserver:e2e</br>
+add kuops/submit-queue:0.1</br>
+add kuops/submit-queue:latest</br>
+add kuops/kubedns-arm64:1.2.test</br>
+add kuops/kubedns-arm:1.2.test</br>
+add kuops/kubedns-amd64:1.2.test</br>
 add kuops/submit-queue:0.5</br>
 add kuops/submit-queue:0.8</br>
 add kuops/submit-queue:0.7</br>
