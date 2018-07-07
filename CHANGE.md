@@ -1,3 +1,13 @@
+add kuops/volume-rbd:latest</br>
+add kuops/volume-rbd:0.2</br>
+add kuops/volume-rbd:0.1</br>
+add kuops/volume-nfs:0.2</br>
+add kuops/vpa-admission-controller:v0.1.0</br>
+add kuops/volume-nfs:0.1</br>
+add kuops/volume-nfs:0.6</br>
+add kuops/vpa-admission-controller:0.2.0</br>
+add kuops/volume-nfs:0.4</br>
+add kuops/volume-nfs:0.3</br>
 add kuops/volume-iscsi:0.1</br>
 add kuops/volume-gluster:0.2</br>
 add kuops/volume-iscsi:0.2</br>
