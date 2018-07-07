@@ -1,3 +1,12 @@
+add kuops/toolbox:20180123-00</br>
+add kuops/toolbox:20180309-00</br>
+add kuops/toolbox:latest</br>
+add kuops/tiny-glibc-arm:1.0</br>
+add kuops/tiny-glibc-arm64:1.0</br>
+add kuops/tiny-glibc-amd64:1.0</br>
+add kuops/kubedns-arm64:1.2.test</br>
+add kuops/kubedns-arm:1.2.test</br>
+add kuops/kubedns-amd64:1.2.test</br>
 add kuops/tensorflow-gpu-notebook:7dfba60b59f2e88424afcc384384f89bfd545c74</br>
 add kuops/tf-models:1.6.0</br>
 add kuops/test-webserver:latest</br>
