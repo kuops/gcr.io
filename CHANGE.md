@@ -1,3 +1,13 @@
+add kuops/volume-iscsi:0.1</br>
+add kuops/volume-gluster:0.2</br>
+add kuops/volume-iscsi:0.2</br>
+add kuops/volume-iscsi:latest</br>
+add kuops/volume-gluster:0.1</br>
+add kuops/volume-nfs:0.8</br>
+add kuops/volume-nfs:latest</br>
+add kuops/volume-nfs:0.7</br>
+add kuops/volume-gluster:0.3</br>
+add kuops/volume-gluster:0.4</br>
 add kuops/volume-ceph:0.1</br>
 add kuops/volume-ceph:latest</br>
 add kuops/volume-gluster:latest</br>
