@@ -1,3 +1,12 @@
+add kuops/ubuntu-slim:0.1</br>
+add kuops/ubuntu-slim:0.3</br>
+add kuops/ubuntu-slim:0.2</br>
+add kuops/ubuntu-slim:0.4</br>
+add kuops/ubuntu-slim:0.6</br>
+add kuops/ubuntu-slim:0.4.1</br>
+add kuops/ubuntu-slim:0.7</br>
+add kuops/ubuntu-slim:0.9</br>
+add kuops/ubuntu-slim:0.8</br>
 add kuops/ubuntu-slim:0.11</br>
 add kuops/ubuntu-nvidia-driver-installer:cd8732e3c25fe61223e0f37d5f496171833afc14</br>
 add kuops/ubuntu-nvidia-driver-installer:57ee51f71357006c6ed42e3e42441311402c4b70</br>
