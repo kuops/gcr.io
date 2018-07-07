@@ -1,3 +1,13 @@
+add kuops/zeppelin:latest</br>
+add kuops/zeppelin:v0.5.6_v1</br>
+add kuops/zeppelin:v0.5.5_v3</br>
+add kuops/vpa-recommender:0.2.0</br>
+add kuops/webhooks-publisher:v20160915-162352</br>
+add kuops/vpa-updater:0.2.0</br>
+add kuops/webhooks-publisher:v20160922-120322</br>
+add kuops/vpa-recommender:v0.1.0</br>
+add kuops/webhooks-publisher:v20160919-140720</br>
+add kuops/vpa-updater:v0.1.0</br>
 add kuops/volume-rbd:latest</br>
 add kuops/volume-rbd:0.2</br>
 add kuops/volume-rbd:0.1</br>
