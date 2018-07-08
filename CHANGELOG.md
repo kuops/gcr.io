@@ -1,3 +1,10 @@
+- kuops/hyperkube-amd64:v1.2.0-alpha.7
+- kuops/hyperkube-amd64:v1.3.0-alpha.0
+- kuops/hyperkube-amd64:v1.2.0-beta.1
+- kuops/hyperkube-amd64:v1.3.0-alpha.1
+- kuops/hyperkube-amd64:v1.2.2-beta.0
+- kuops/hyperkube-amd64:v1.3.0-alpha.2
+- kuops/hyperkube-amd64:v1.2.4-beta.0
 - kuops/hyperkube-amd64:v1.3.3-beta.0
 - kuops/hyperkube-amd64:v1.4.0-alpha.1
 - kuops/hyperkube-amd64:v1.2.6
