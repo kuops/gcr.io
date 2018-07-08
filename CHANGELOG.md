@@ -1,3 +1,6 @@
+- kuops/hyperkube-arm:v1.7.4-beta.0
+- kuops/hyperkube-arm:v1.7.6-beta.0
+- kuops/hyperkube-arm:v1.8.0-beta.1
 - kuops/hyperkube-arm:v1.6.12-beta.0
 - kuops/hyperkube-arm:v1.6.11
 - kuops/hyperkube-arm:v1.5.8
