@@ -1,3 +1,4 @@
+- kuops/hyperkube-amd64:v1.8.8-beta.0
 - kuops/hyperkube-amd64:v1.7.15-beta.0
 - kuops/hyperkube-amd64:v1.9.7-beta.0
 - kuops/hyperkube-amd64:v1.7.15
