@@ -1,3 +1,5 @@
+- kuops/hyperkube:v1.4.8-beta.0
+- kuops/hyperkube:v1.4.8
 - kuops/hyperkube:v1.7.0-alpha.0
 - kuops/hyperkube:v1.6.0-alpha.1
 - kuops/hyperkube:v1.5.4
