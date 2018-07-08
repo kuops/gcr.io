@@ -1,3 +1,5 @@
+- kuops/fluentd-gcp:1.28.4
+- kuops/fluentd-gcp:2.0.11
 - kuops/fluentd-elasticsearch:1.5
 - kuops/fluentd-elasticsearch:1.9
 - kuops/fluentd-elasticsearch:1.8
