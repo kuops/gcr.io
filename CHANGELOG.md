@@ -1,3 +1,5 @@
+- kuops/etcd:3.0.13-experimental.3
+- kuops/etcd:3.0.17-ha.alpha.1
 - kuops/etcd:3.1.10-gke.0
 - kuops/etcd:3.1.11-experimental.1
 - kuops/etcd:3.1.11
