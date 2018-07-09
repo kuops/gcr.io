@@ -1,3 +1,16 @@
+- kuops/hyperkube-s390x:v1.6.12
+- kuops/hyperkube-s390x:v1.7.8-beta.0
+- kuops/hyperkube-s390x:v1.8.0
+- kuops/hyperkube-s390x:v1.8.2
+- kuops/hyperkube-s390x:v1.8.1-beta.0
+- kuops/hyperkube-s390x:v1.8.3-beta.0
+- kuops/hyperkube-s390x:v1.8.2-beta.0
+- kuops/hyperkube-s390x:v1.8.1
+- kuops/hyperkube-s390x:v1.7.11-beta.0
+- kuops/hyperkube-s390x:v1.9.0-alpha.3
+- kuops/hyperkube-s390x:v1.9.0-alpha.2
+- kuops/hyperkube-s390x:v1.8.3
+- kuops/hyperkube-s390x:v1.8.4-beta.0
 - kuops/hyperkube-s390x:v1.6.14-beta.0
 - kuops/hyperkube-s390x:v1.7.11
 - kuops/hyperkube-s390x:v1.6.13
