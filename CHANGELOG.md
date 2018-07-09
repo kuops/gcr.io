@@ -1,3 +1,17 @@
+- kuops/kube-controller-manager:v1.7.11-beta.0
+- kuops/kube-controller-manager:v1.6.12
+- kuops/kube-controller-manager:v1.8.3-beta.0
+- kuops/kube-controller-manager:v1.8.4-beta.0
+- kuops/kube-controller-manager:v1.10.0-alpha.0
+- kuops/kube-controller-manager:v1.6.14-beta.0
+- kuops/kube-controller-manager:v1.6.13
+- kuops/kube-controller-manager:v1.8.4
+- kuops/kube-controller-manager:v1.8.5-beta.0
+- kuops/kube-controller-manager:v1.7.12-beta.0
+- kuops/kube-controller-manager:v1.7.11
+- kuops/kube-controller-manager:v1.9.0-beta.1
+- kuops/kube-controller-manager:v1.8.5
+- kuops/kube-controller-manager:v1.8.6-beta.0
 - kuops/kube-controller-manager:v1.8.7
 - kuops/kube-controller-manager:v1.9.1-beta.0
 - kuops/kube-controller-manager:v1.9.0-beta.2
