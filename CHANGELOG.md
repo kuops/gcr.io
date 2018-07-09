@@ -1,3 +1,4 @@
+- kuops/hyperkube-ppc64le:v1.11.0-beta.0
 - kuops/hyperkube-arm64:v1.3.0-alpha.3
 - kuops/hyperkube-ppc64le:v1.10.5-beta.0
 - kuops/hyperkube-ppc64le:v1.9.10-beta.0
