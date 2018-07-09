@@ -1,3 +1,9 @@
+- kuops/kube-controller-manager-s390x:v1.6.12-beta.0
+- kuops/kube-controller-manager-s390x:v1.8.0
+- kuops/kube-controller-manager-s390x:v1.6.11
+- kuops/kube-controller-manager-s390x:v1.9.0-alpha.1
+- kuops/kube-controller-manager-s390x:v1.8.2-beta.0
+- kuops/kube-controller-manager-s390x:v1.9.0-alpha.2
 - kuops/kube-controller-manager-s390x:v1.7.10
 - kuops/kube-controller-manager-s390x:v1.9.0-beta.1
 - kuops/kube-controller-manager-s390x:v1.8.3
