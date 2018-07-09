@@ -1,3 +1,13 @@
+- kuops/kube-cross:v1.8.3-1
+- kuops/kube-cross:v1.8.3-3
+- kuops/kube-cross:v1.9.3-1
+- kuops/kube-cross:v1.8.0-1
+- kuops/kube-cross:v1.7.4-2
+- kuops/kube-cross:v1.7.4-3
+- kuops/kube-cross:v1.9.2-2
+- kuops/kube-cross:v1.7.4-1
+- kuops/kube-cross:v1.7.6-k8s1.6-0
+- kuops/kube-cross:v1.9.1-1
 - kuops/kube-cross:v1.10.1-1
 - kuops/kube-cross:v1.10.3-1
 - kuops/kube-cross:V1.10.3-1
