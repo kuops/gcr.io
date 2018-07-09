@@ -1,3 +1,10 @@
+- kuops/kube-aggregator-arm:v1.8.5-beta.0
+- kuops/kube-aggregator-arm:v1.8.4
+- kuops/kube-aggregator-arm:v1.9.0-beta.1
+- kuops/kube-aggregator-arm:v1.9.1-beta.0
+- kuops/kube-aggregator-arm:v1.8.5
+- kuops/kube-aggregator-arm:v1.9.1
+- kuops/kube-aggregator-arm:v1.9.2-beta.0
 - kuops/kube-aggregator-arm:v1.8.8-beta.0
 - kuops/kube-aggregator-arm:v1.9.2
 - kuops/kube-aggregator-arm:v1.10.0-alpha.3
