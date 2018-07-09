@@ -1,3 +1,14 @@
+- kuops/hyperkube-arm64:v1.7.15
+- kuops/hyperkube-arm64:v1.10.0-beta.4
+- kuops/hyperkube-arm64:v1.9.4
+- kuops/hyperkube-arm64:v1.9.4-beta.0
+- kuops/hyperkube-arm64:v1.10.0-beta.2
+- kuops/hyperkube-arm64:v1.10.0-beta.1
+- kuops/hyperkube-arm64:v1.9.5-beta.0
+- kuops/hyperkube-arm64:v1.11.0-alpha.0
+- kuops/hyperkube-arm64:v1.10.0-beta.3
+- kuops/hyperkube-arm64:v1.10.0-beta.0
+- kuops/hyperkube-arm64:v1.9.5
 - kuops/hyperkube-arm64:v1.7.16
 - kuops/hyperkube-arm64:v1.7.17-beta.0
 - kuops/hyperkube-arm64:v1.11.0-alpha.1
