@@ -1,3 +1,5 @@
+- kuops/hyperkube-ppc64le:v1.8.0-alpha.2
+- kuops/hyperkube-ppc64le:v1.7.3
 - kuops/hyperkube-ppc64le:v1.6.10-beta.0
 - kuops/hyperkube-ppc64le:v1.7.4-beta.0
 - kuops/hyperkube-ppc64le:v1.7.6-beta.0
