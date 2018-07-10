@@ -1,3 +1,12 @@
+- kuops/kube-cross:v1.7rc1-0
+- kuops/kube-cross:v1.6.0-1
+- kuops/kube-cross:v1.7rc3-0
+- kuops/kube-dns-perf-client-amd64:1.1
+- kuops/kube-discovery-arm:1.0
+- kuops/kube-dnsmasq-amd64:1.4
+- kuops/kube-dns-perf-client-amd64:1.0
+- kuops/kube-dnsmasq-amd64:1.4.1
+- kuops/kube-discovery-amd64:1.0
 - kuops/kube-cross:v1.6.3-7
 - kuops/kube-cross:v1.6.3-2
 - kuops/kube-cross:v1.6.3-4
