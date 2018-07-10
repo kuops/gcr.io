@@ -1,3 +1,7 @@
+- kuops/kube-proxy-s390x:v1.6.0-alpha.2
+- kuops/kube-proxy-s390x:v1.6.0-alpha.1
+- kuops/kube-registry-proxy:0.4
+- kuops/kube-proxy-s390x:v1.6.2-beta.0
 - kuops/kube-proxy-s390x:v1.6.5
 - kuops/kube-proxy-s390x:v1.6.3-beta.1
 - kuops/kube-proxy-s390x:v1.6.5-beta.0
