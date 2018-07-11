@@ -1,3 +1,18 @@
+-------------------------------at 2018-07-11 17:04:06 sync image repositorys-------------------------------
+- kuops/zeppelin:master-86a1a199
+- kuops/zeppelin:v0.5.5_v1
+- kuops/zeppelin:master-81f02485
+- kuops/zeppelin:master
+- kuops/zeppelin:master-a4db1688
+- kuops/zeppelin:master-2d893aba
+- kuops/zeppelin:master-600f728d
+- kuops/zeppelin:latest
+- kuops/zeppelin:v0.5.6_v1
+- kuops/zeppelin:v0.5.5_v2
+- kuops/zeppelin:v0.5.5_v3
+- kuops/zeppelin-proxy:master
+- kuops/zookeeper-install:0.1
+- kuops/webhooks-publisher:v20160915-162352
 - kuops/volume-nfs:0.1
 - kuops/volume-rbd:0.1
 - kuops/volume-rbd:0.2
