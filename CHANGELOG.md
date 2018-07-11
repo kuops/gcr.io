@@ -1,3 +1,17 @@
+- kuops/kube-scheduler-ppc64le:v1.9.4
+- kuops/kube-scheduler-ppc64le:v1.8.9
+- kuops/kube-scheduler-ppc64le:v1.7.14
+- kuops/kube-scheduler-ppc64le:v1.8.11-beta.0
+- kuops/kube-scheduler-ppc64le:v1.9.5-beta.0
+- kuops/kube-scheduler-ppc64le:v1.7.15-beta.0
+- kuops/kube-scheduler-ppc64le:v1.10.0-beta.4
+- kuops/kube-scheduler-ppc64le:v1.7.15
+- kuops/kube-scheduler-ppc64le:v1.9.6-beta.0
+- kuops/kube-scheduler-ppc64le:v1.8.10
+- kuops/kube-scheduler-ppc64le:v1.9.7-beta.0
+- kuops/kube-scheduler-ppc64le:v1.10.0-rc.1
+- kuops/kube-scheduler-ppc64le:v1.10.1-beta.0
+- kuops/kube-scheduler-ppc64le:v1.10.0
 - kuops/kube-scheduler-ppc64le:v1.7.17-beta.0
 - kuops/kube-scheduler-ppc64le:v1.8.11
 - kuops/kube-scheduler-ppc64le:v1.9.8-beta.0
