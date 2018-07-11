@@ -1,3 +1,17 @@
+- kuops/volume-iscsi:0.2
+- kuops/volume-iscsi:latest
+- kuops/volume-gluster:0.1
+- kuops/volume-gluster:0.4
+- kuops/ubuntu-slim-ppc64le:0.9
+- kuops/ubuntu-slim-ppc64le:0.10
+- kuops/ubuntu-slim-ppc64le:0.14
+- kuops/ubuntu-slim-ppc64le:0.11
+- kuops/update-demo:kitten
+- kuops/ubuntu-slim-ppc64le:0.12
+- kuops/update-demo:nautilus
+- kuops/ubuntu-slim-ppc64le:0.13
+- kuops/ubuntu-slim-arm64:0.9
+- kuops/ubuntu-slim-arm64:0.10
 - kuops/ubuntu-slim-arm64:0.11
 - kuops/ubuntu-slim-arm64:0.13
 - kuops/ubuntu-slim-arm64:0.14
