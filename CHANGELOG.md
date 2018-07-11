@@ -1,3 +1,10 @@
+- kuops/logs-generator:v0.1.0
+- kuops/logexp:test
+- kuops/loader:0.2
+- kuops/loader:0.1
+- kuops/loader:0.3
+- kuops/loader:0.4
+- kuops/loader:0.5
 - kuops/leader-elector:0.2
 - kuops/leader-elector:0.1
 - kuops/kubernetes-zookeeper:1.0-3.4.10
