@@ -1,3 +1,22 @@
+- kuops/hyperkube:v1.8.15
+- kuops/hyperkube:v1.8.16-beta.0
+- kuops/hyperkube-amd64:v1.8.16-beta.0
+- kuops/cluster-autoscaler:v1.3.1
+- kuops/cluster-proportional-autoscaler-ppc64le:1.2.0
+- kuops/cluster-proportional-autoscaler-arm64:1.2.0
+- kuops/cloud-controller-manager-s390x:v1.8.15
+- kuops/cloud-controller-manager-s390x:v1.8.16-beta.0
+- kuops/cluster-proportional-autoscaler-arm:1.2.0
+- kuops/cloud-controller-manager-ppc64le:v1.8.15
+- kuops/cluster-proportional-autoscaler-amd64:1.2.0
+- kuops/cloud-controller-manager-ppc64le:v1.8.16-beta.0
+- kuops/cloud-controller-manager-arm64:v1.8.16-beta.0
+- kuops/cloud-controller-manager-arm64:v1.8.15
+- kuops/cloud-controller-manager-arm:v1.8.16-beta.0
+- kuops/cloud-controller-manager-arm:v1.8.15
+- kuops/cloud-controller-manager-amd64:v1.8.16-beta.0
+- kuops/cloud-controller-manager:v1.8.16-beta.0
+- kuops/cloud-controller-manager:v1.8.15
 -------------------------------at 2018-07-11 17:04:06 sync image repositorys-------------------------------
 - kuops/zeppelin:master-86a1a199
 - kuops/zeppelin:v0.5.5_v1
