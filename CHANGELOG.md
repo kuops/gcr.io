@@ -1,3 +1,8 @@
+-------------------------------at 2018-07-14 07:36:04 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/event-exporter:v0.2.2
 -------------------------------at 2018-07-13 07:38:24 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
