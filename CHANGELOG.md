@@ -1,3 +1,15 @@
+-------------------------------at 2018-07-18 07:31:21 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f
+- kuops/nvidia-gpu-device-plugin:abe3b8b02b8a3b98bedb5c1281b6e320784c8b6f
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gcp-controller-manager:v1.11.0-r5
+- kuops/elasticsearch:v6.2.5
+- kuops/cos-kernel-headers:20180717-R00-00
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:live
+- kuops/addon-resizer:1.8.3
 -------------------------------at 2018-07-16 13:54:52 sync image repositorys-------------------------------
 -------------------------------at 2018-07-16 08:03:51 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
