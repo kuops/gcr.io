@@ -1,3 +1,16 @@
+-------------------------------at 2018-07-19 07:43:26 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:91d04fc51afb8db9dec835724b3ef7bb0cc7db47
+- kuops/ubuntu-nvidia-driver-installer:9de1833341b2ff8e9e5fb0c4a258bc97b865497f
+- kuops/nvidia-gpu-device-plugin:9de1833341b2ff8e9e5fb0c4a258bc97b865497f
+- kuops/nvidia-gpu-device-plugin:91d04fc51afb8db9dec835724b3ef7bb0cc7db47
+- kuops/netd-amd64:latest
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-scheduler-s390x:v1.11.1
+- kuops/kube-scheduler-s390x:v1.11.2-beta.0
+- kuops/kube-scheduler-ppc64le:v1.11.1
+- kuops/kube-scheduler-ppc64le:v1.11.2-beta.0
 - kuops/kube-scheduler-arm64:v1.11.1
 - kuops/kube-scheduler-arm64:v1.11.2-beta.0
 - kuops/kube-scheduler-arm:v1.11.1
