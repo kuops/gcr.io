@@ -31,6 +31,7 @@ gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le
 gcr.io/google-containers/clusterapi-tester
 gcr.io/google-containers/clusterregistry
 gcr.io/google-containers/coredns
+gcr.io/google-containers/cos-kernel-headers
 gcr.io/google-containers/cos-nvidia-driver-install
 gcr.io/google-containers/cpvpa-amd64
 gcr.io/google-containers/cuda-vector-add
