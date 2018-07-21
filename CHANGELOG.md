@@ -1,3 +1,20 @@
+-------------------------------at 2018-07-21 07:36:30 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:97415e4f4d23a30ba3f6bf51d27483ff8333e367
+- kuops/ubuntu-nvidia-driver-installer:e5dfbef207f0048dc10ed031a3ebe66a785b6012
+- kuops/ubuntu-nvidia-driver-installer:7aea771c10043babf3f99836051556c3bf8348e6
+- kuops/ubuntu-nvidia-driver-installer:e2d9b43228decf5d6f7dce3f0a85d390f138fa01
+- kuops/nvidia-gpu-device-plugin:97415e4f4d23a30ba3f6bf51d27483ff8333e367
+- kuops/nvidia-gpu-device-plugin:e5dfbef207f0048dc10ed031a3ebe66a785b6012
+- kuops/nvidia-gpu-device-plugin:7aea771c10043babf3f99836051556c3bf8348e6
+- kuops/nvidia-gpu-device-plugin:e2d9b43228decf5d6f7dce3f0a85d390f138fa01
+- kuops/minikube-nvidia-driver-installer:e2d9b43228decf5d6f7dce3f0a85d390f138fa01
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.2.3
+- kuops/cos-kernel-headers:live
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:20180720-R00-00
 -------------------------------at 2018-07-19 07:43:26 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:91d04fc51afb8db9dec835724b3ef7bb0cc7db47
 - kuops/ubuntu-nvidia-driver-installer:9de1833341b2ff8e9e5fb0c4a258bc97b865497f
