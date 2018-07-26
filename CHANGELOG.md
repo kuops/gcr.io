@@ -1,3 +1,18 @@
+-------------------------------at 2018-07-26 07:47:25 sync image repositorys-------------------------------
+- kuops/metadata-proxy:v0.1.10
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/heapster-grafana-ppc64le:v5.0.4
+- kuops/heapster-grafana-s390x:v5.0.4
+- kuops/heapster-grafana-arm64:v5.0.4
+- kuops/heapster-grafana-arm:v5.0.4
+- kuops/heapster-influxdb-s390x:v1.5.2
+- kuops/heapster-grafana-amd64:v5.0.4
+- kuops/heapster-influxdb-ppc64le:v1.5.2
+- kuops/heapster-influxdb-arm64:v1.5.2
+- kuops/heapster-influxdb-arm:v1.5.2
+- kuops/heapster-influxdb-amd64:v1.5.2
 -------------------------------at 2018-07-24 08:06:48 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:ce99936df77138d0887bc1335a8b52af7eb1ce9e
 - kuops/nvidia-gpu-device-plugin:ce99936df77138d0887bc1335a8b52af7eb1ce9e
