@@ -1,3 +1,16 @@
+-------------------------------at 2018-07-27 07:46:33 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-scheduler-s390x:v1.10.7-beta.0
+- kuops/kube-scheduler-s390x:v1.10.6
+- kuops/kube-scheduler-ppc64le:v1.10.6
+- kuops/kube-scheduler-ppc64le:v1.10.7-beta.0
+- kuops/kube-scheduler-arm64:v1.10.6
+- kuops/kube-scheduler-arm64:v1.10.7-beta.0
+- kuops/kube-scheduler-arm:v1.10.6
+- kuops/kube-scheduler-arm:v1.10.7-beta.0
+- kuops/kube-scheduler-amd64:v1.10.6
 - kuops/kube-proxy-s390x:v1.10.7-beta.0
 - kuops/kube-scheduler-amd64:v1.10.7-beta.0
 - kuops/kube-proxy-ppc64le:v1.10.7-beta.0
