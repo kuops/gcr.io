@@ -1,3 +1,10 @@
+-------------------------------at 2018-08-01 07:48:06 sync image repositorys-------------------------------
+- kuops/netd-amd64:0.1.4
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/k8s-tpu-operator:3836318037f23279a33e021ad409da9966283e70
+- kuops/gcp-controller-manager:434dd3197ae6f649ab796765bbdef008043bda69
 -------------------------------at 2018-07-31 08:12:52 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
