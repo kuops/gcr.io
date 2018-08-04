@@ -1,3 +1,9 @@
+-------------------------------at 2018-08-04 14:36:32 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gke-mpi-api-server:v.0.0.2
+- kuops/gke-mpi-metadata-server:v.0.0.2
 -------------------------------at 2018-08-03 07:50:48 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
