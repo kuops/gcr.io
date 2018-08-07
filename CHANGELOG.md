@@ -1,3 +1,12 @@
+-------------------------------at 2018-08-07 07:53:19 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/heapster-s390x:v1.6.0-beta.1
+- kuops/heapster-ppc64le:v1.6.0-beta.1
+- kuops/heapster-arm64:v1.6.0-beta.1
+- kuops/heapster-amd64:v1.6.0-beta.1
+- kuops/heapster-arm:v1.6.0-beta.1
 -------------------------------at 2018-08-06 08:14:02 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
