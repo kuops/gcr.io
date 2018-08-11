@@ -1,3 +1,23 @@
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/debian-hyperkube-base-s390x:0.10.1
+- kuops/debian-hyperkube-base-ppc64le:0.10.1
+- kuops/gke-mpi-api-server:v0.0.3
+- kuops/gke-mpi-metadata-server:v0.0.3
+- kuops/gcp-controller-manager:628fc7640265d4094d13abd450bd270c60ca386d
+- kuops/debian-hyperkube-base-arm64:0.10.1
+- kuops/debian-hyperkube-base-amd64:0.10.1
+- kuops/debian-hyperkube-base-arm:0.10.1
+- kuops/debian-iptables-s390x:v10.1
+- kuops/debian-iptables-ppc64le:v10.1
+- kuops/debian-iptables-arm64:v10.1
+- kuops/debian-iptables-amd64:v10.1
+- kuops/debian-iptables-arm:v10.1
+- kuops/debian-base-s390x:0.3.2
+- kuops/debian-base-ppc64le:0.3.2
+- kuops/debian-base-arm64:0.3.2
+- kuops/debian-base-amd64:0.3.2
+- kuops/debian-base-arm:0.3.2
 -------------------------------at 2018-08-09 07:54:22 sync image repositorys-------------------------------
 - kuops/netd-amd64:0.1.5
 - kuops/kubedns-arm:1.2.test
