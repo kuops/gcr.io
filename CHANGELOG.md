@@ -1,3 +1,8 @@
+-------------------------------at 2018-08-14 07:57:21 sync image repositorys-------------------------------
+- kuops/prometheus-to-sd:v0.3.0
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gcp-controller-manager:b30912607c944f0b7935f24aa1fc391e0b112101
 -------------------------------at 2018-08-12 08:19:45 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
