@@ -1,3 +1,22 @@
+- kuops/hyperkube-arm:v1.12.0-beta.0
+- kuops/hyperkube-arm:v1.13.0-alpha.0
+- kuops/hyperkube-amd64:v1.13.0-alpha.0
+- kuops/hyperkube:v1.13.0-alpha.0
+- kuops/hyperkube:v1.12.0-beta.0
+- kuops/hyperkube-amd64:v1.12.0-beta.0
+- kuops/cluster-autoscaler:v1.3.2-beta.1
+- kuops/cluster-autoscaler:v1.2.3-beta.1
+- kuops/cloud-controller-manager-s390x:v1.12.0-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.12.0-beta.0
+- kuops/cloud-controller-manager-s390x:v1.13.0-alpha.0
+- kuops/cloud-controller-manager-ppc64le:v1.13.0-alpha.0
+- kuops/cloud-controller-manager-arm64:v1.12.0-beta.0
+- kuops/cloud-controller-manager-arm64:v1.13.0-alpha.0
+- kuops/cloud-controller-manager-arm:v1.12.0-beta.0
+- kuops/cloud-controller-manager-arm:v1.13.0-alpha.0
+- kuops/cloud-controller-manager:v1.13.0-alpha.0
+- kuops/cloud-controller-manager-amd64:v1.12.0-beta.0
+- kuops/cloud-controller-manager:v1.12.0-beta.0
 -------------------------------at 2018-08-14 07:57:21 sync image repositorys-------------------------------
 - kuops/prometheus-to-sd:v0.3.0
 - kuops/kubedns-arm64:1.2.test
