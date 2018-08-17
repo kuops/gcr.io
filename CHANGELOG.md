@@ -1,3 +1,9 @@
+-------------------------------at 2018-08-17 07:49:34 sync image repositorys-------------------------------
+- kuops/prometheus-to-sd:v0.3.1
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/addon-builder:latest
 -------------------------------at 2018-08-16 08:00:39 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:75e74b2c8e4eb44aaec0435c2185aabd5a0eda3b
 - kuops/nvidia-gpu-device-plugin:75e74b2c8e4eb44aaec0435c2185aabd5a0eda3b
