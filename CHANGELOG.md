@@ -1,3 +1,12 @@
+-------------------------------at 2018-08-19 07:50:22 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.3.0
+- kuops/addon-builder:latest
+- kuops/cos-kernel-headers:20180816-R01-00
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:live
 -------------------------------at 2018-08-17 07:49:34 sync image repositorys-------------------------------
 - kuops/prometheus-to-sd:v0.3.1
 - kuops/kubedns-arm64:1.2.test
