@@ -1,3 +1,7 @@
+-------------------------------at 2018-08-20 08:22:12 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2018-08-19 07:50:22 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
