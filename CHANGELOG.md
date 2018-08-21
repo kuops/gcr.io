@@ -1,3 +1,23 @@
+- kuops/hyperkube-arm64:v1.10.7
+- kuops/hyperkube-arm64:v1.10.8-beta.0
+- kuops/hyperkube-arm:v1.10.8-beta.0
+- kuops/hyperkube-arm:v1.10.7
+- kuops/hyperkube-amd64:v1.10.8-beta.0
+- kuops/hyperkube-amd64:v1.10.7
+- kuops/hyperkube:v1.10.8-beta.0
+- kuops/hyperkube:v1.10.7
+- kuops/cloud-controller-manager-ppc64le:v1.10.8-beta.0
+- kuops/cloud-controller-manager-arm64:v1.10.7
+- kuops/cloud-controller-manager-s390x:v1.10.7
+- kuops/cloud-controller-manager-ppc64le:v1.10.7
+- kuops/cloud-controller-manager-s390x:v1.10.8-beta.0
+- kuops/cloud-controller-manager-arm64:v1.10.8-beta.0
+- kuops/cloud-controller-manager-arm:v1.10.8-beta.0
+- kuops/cloud-controller-manager-arm:v1.10.7
+- kuops/cloud-controller-manager:v1.10.7
+- kuops/cloud-controller-manager:v1.10.8-beta.0
+- kuops/cloud-controller-manager-amd64:v1.10.7
+- kuops/cloud-controller-manager-amd64:v1.10.8-beta.0
 -------------------------------at 2018-08-20 08:22:12 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
