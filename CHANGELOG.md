@@ -1,3 +1,11 @@
+-------------------------------at 2018-08-22 07:55:29 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gvisor-admission-webhook-amd64:c556d9ea0d21f15d76ebe81a4c8326b3f05938a5
+- kuops/cos-kernel-headers:live
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:20180821-R00-00
 -------------------------------at 2018-08-21 08:04:48 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
