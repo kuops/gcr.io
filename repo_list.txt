@@ -144,6 +144,7 @@ gcr.io/google-containers/glbc
 gcr.io/google-containers/google-containers-test-image
 gcr.io/google-containers/goproxy
 gcr.io/google-containers/guestbook
+gcr.io/google-containers/gvisor-admission-webhook-amd64
 gcr.io/google-containers/haproxy
 gcr.io/google-containers/healthz-server
 gcr.io/google-containers/heapster
