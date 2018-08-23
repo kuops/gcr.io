@@ -1,3 +1,13 @@
+-------------------------------at 2018-08-23 07:56:44 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/fluentd-gcp:2.0.18
+- kuops/elasticsearch:v6.3.0
+- kuops/fluentd-elasticsearch:v2.3.1
+- kuops/fluentd-gcp-scaler:0.4
+- kuops/event-exporter:v0.2.3
+- kuops/cluster-autoscaler:v1.3.2-beta.2
 -------------------------------at 2018-08-22 07:55:29 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
