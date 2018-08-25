@@ -1,3 +1,7 @@
+-------------------------------at 2018-08-25 07:56:06 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/cluster-autoscaler:v1.2.3-beta.2
 -------------------------------at 2018-08-23 07:56:44 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
