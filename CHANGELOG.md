@@ -1,3 +1,16 @@
+-------------------------------at 2018-08-28 07:58:03 sync image repositorys-------------------------------
+- kuops/kubernetes-dashboard-ppc64le:v1.10.0
+- kuops/kubernetes-dashboard-s390x:v1.10.0
+- kuops/kubernetes-dashboard-arm64:v1.10.0
+- kuops/kubernetes-dashboard-arm:v1.10.0
+- kuops/kubernetes-dashboard-amd64:v1.10.0
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/ip-masq-agent-amd64:v2.1.1
+- kuops/cos-kernel-headers:live
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:20180827-R00-00
 -------------------------------at 2018-08-27 08:25:36 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
