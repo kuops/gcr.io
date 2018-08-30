@@ -1,3 +1,12 @@
+-------------------------------at 2018-08-30 07:57:05 sync image repositorys-------------------------------
+- kuops/metrics-server-amd64:v0.3.0-alpha.1
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/addon-builder:latest
+- kuops/cos-kernel-headers:20180829-R00-00
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:live
 -------------------------------at 2018-08-28 07:58:03 sync image repositorys-------------------------------
 - kuops/kubernetes-dashboard-ppc64le:v1.10.0
 - kuops/kubernetes-dashboard-s390x:v1.10.0
