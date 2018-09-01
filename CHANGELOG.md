@@ -1,3 +1,9 @@
+-------------------------------at 2018-09-01 08:29:26 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-state-metrics:v1.4.0
+- kuops/kube-state-metrics-amd64:v1.4.0
 -------------------------------at 2018-08-31 08:00:17 sync image repositorys-------------------------------
 - kuops/metrics-server-s390x:v0.3.0
 - kuops/metrics-server-ppc64le:v0.3.0
