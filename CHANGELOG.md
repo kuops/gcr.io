@@ -1,3 +1,8 @@
+-------------------------------at 2018-09-04 08:15:18 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.3.2
 -------------------------------at 2018-09-03 08:31:24 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
