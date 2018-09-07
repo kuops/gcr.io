@@ -1,3 +1,22 @@
+- kuops/k8s-tpu-operator:beebb121fd5de1e766d2d88342f3253dd710e7dd
+- kuops/addon-builder:latest
+- kuops/kube-addon-manager:v8.7
+- kuops/kube-addon-manager-amd64:v8.7
+- kuops/etcd-s390x:3.2.24
+- kuops/etcd-s390x:3.2.24-0
+- kuops/etcd-ppc64le:3.2.24-0
+- kuops/etcd-ppc64le:3.2.24
+- kuops/etcd-arm64:3.2.24-0
+- kuops/etcd-amd64:3.2.24
+- kuops/etcd-amd64:3.2.24-0
+- kuops/etcd:3.2.24
+- kuops/etcd:3.2.24-0
+- kuops/etcd-arm:3.2.24-0
+- kuops/etcd-arm:3.2.24
+- kuops/etcd-empty-dir-cleanup:3.2.24.0
+- kuops/cluster-autoscaler:v1.12.0-beta.1
+- kuops/cluster-autoscaler:v1.2.3
+- kuops/cluster-autoscaler:v1.3.2
 -------------------------------at 2018-09-05 08:16:35 sync image repositorys-------------------------------
 - kuops/kubedns-amd64:1.2.test
 - kuops/kubedns-arm64:1.2.test
