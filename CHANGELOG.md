@@ -1,3 +1,10 @@
+-------------------------------at 2018-09-07 08:04:50 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-addon-manager-s390x:v8.7
+- kuops/kube-addon-manager-ppc64le:v8.7
+- kuops/kube-addon-manager-arm:v8.7
 - kuops/k8s-tpu-operator:beebb121fd5de1e766d2d88342f3253dd710e7dd
 - kuops/addon-builder:latest
 - kuops/kube-addon-manager:v8.7
