@@ -1,3 +1,22 @@
+- kuops/nvidia-gpu-device-plugin:27396e9de55a96ba035e99480b70de5020861e60
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/k8s-dns-sidecar-amd64:1.14.11
+- kuops/k8s-dns-kube-dns-amd64:1.14.11
+- kuops/k8s-dns-dnsmasq-nanny-amd64:1.14.11
+- kuops/coredns:1.0.1
+- kuops/coredns:1.0.1__amd64_linux
+- kuops/coredns:1.0.1__arm_linux
+- kuops/coredns:1.0.1__arm64_linux
+- kuops/coredns:1.0.1__s390x_linux
+- kuops/coredns:1.0.6__amd64_linux
+- kuops/coredns:1.0.6
+- kuops/coredns:1.0.6__arm_linux
+- kuops/coredns:1.0.6__arm64_linux
+- kuops/coredns:1.0.6__ppc64le_linux
+- kuops/coredns:1.0.6__s390x_linux
+- kuops/cadvisor:v0.31.0
 -------------------------------at 2018-09-07 08:04:50 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
