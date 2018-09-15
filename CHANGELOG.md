@@ -1,3 +1,9 @@
+-------------------------------at 2018-09-15 08:16:02 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gvisor-admission-webhook-amd64:5aedc8e09abd5966e309212fa507fb7900b2c67b
+- kuops/gvisor-admission-webhook-amd64:88426fd7755f10a5800c0a9ae43617f8087ded35
 -------------------------------at 2018-09-14 08:05:36 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
