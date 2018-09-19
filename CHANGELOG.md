@@ -1,3 +1,22 @@
+- kuops/hyperkube-arm64:v1.12.0-rc.1
+- kuops/hyperkube-ppc64le:v1.12.0-rc.1
+- kuops/hyperkube-arm:v1.12.0-rc.1
+- kuops/hyperkube-amd64:v1.12.0-rc.1
+- kuops/debian-hyperkube-base-s390x:0.10.2
+- kuops/debian-hyperkube-base-ppc64le:0.10.2
+- kuops/debian-hyperkube-base-arm64:0.10.2
+- kuops/debian-hyperkube-base-amd64:0.10.2
+- kuops/debian-hyperkube-base-arm:0.10.2
+- kuops/debian-iptables-s390x:v10.2
+- kuops/cluster-autoscaler:v1.12.0
+- kuops/debian-iptables-arm64:v10.2
+- kuops/debian-iptables-arm:v10.2
+- kuops/debian-iptables-amd64:v10.2
+- kuops/cloud-controller-manager-s390x:v1.12.0-rc.1
+- kuops/cloud-controller-manager-ppc64le:v1.12.0-rc.1
+- kuops/cloud-controller-manager-arm64:v1.12.0-rc.1
+- kuops/cloud-controller-manager-amd64:v1.12.0-rc.1
+- kuops/cloud-controller-manager-arm:v1.12.0-rc.1
 -------------------------------at 2018-09-17 08:20:24 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
