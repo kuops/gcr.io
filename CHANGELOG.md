@@ -1,3 +1,14 @@
+-------------------------------at 2018-09-19 08:20:47 sync image repositorys-------------------------------
+- kuops/toolbox:latest
+- kuops/toolbox:20180918-00
+- kuops/netd-amd64:0.1.6
+- kuops/metrics-server-s390x:v0.3.1
+- kuops/metrics-server-ppc64le:v0.3.1
+- kuops/metrics-server-arm:v0.3.1
+- kuops/metrics-server-amd64:v0.3.1
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
 - kuops/kube-cross:v1.10.4-1
 - kuops/kube-scheduler-s390x:v1.12.0-rc.1
 - kuops/kube-proxy-s390x:v1.12.0-rc.1
