@@ -189,6 +189,7 @@ gcr.io/google-containers/k8s-custom-iptables
 gcr.io/google-containers/k8s-dns-dnsmasq-amd64
 gcr.io/google-containers/k8s-dns-dnsmasq-arm
 gcr.io/google-containers/k8s-dns-dnsmasq-arm64
+gcr.io/google-containers/k8s-dns-dnsmasq-nanny
 gcr.io/google-containers/k8s-dns-dnsmasq-nanny-amd64
 gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm
 gcr.io/google-containers/k8s-dns-dnsmasq-nanny-arm64
@@ -204,11 +205,13 @@ gcr.io/google-containers/k8s-dns-ginkgo-amd64
 gcr.io/google-containers/k8s-dns-ginkgo-arm
 gcr.io/google-containers/k8s-dns-ginkgo-arm64
 gcr.io/google-containers/k8s-dns-ginkgo-ppc64le
+gcr.io/google-containers/k8s-dns-kube-dns
 gcr.io/google-containers/k8s-dns-kube-dns-amd64
 gcr.io/google-containers/k8s-dns-kube-dns-arm
 gcr.io/google-containers/k8s-dns-kube-dns-arm64
 gcr.io/google-containers/k8s-dns-kube-dns-ppc64le
 gcr.io/google-containers/k8s-dns-kube-dns-s390x
+gcr.io/google-containers/k8s-dns-sidecar
 gcr.io/google-containers/k8s-dns-sidecar-amd64
 gcr.io/google-containers/k8s-dns-sidecar-arm
 gcr.io/google-containers/k8s-dns-sidecar-arm64
