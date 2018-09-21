@@ -1,3 +1,4 @@
+-------------------------------at 2018-09-21 08:13:54 sync image repositorys-------------------------------
 - kuops/zookeeper-install-3.5.0-alpha:e2e
 - kuops/prometheus-to-sd:v0.3.2
 - kuops/kubedns-arm64:1.2.test
