@@ -1,3 +1,21 @@
+- kuops/k8s-dns-dnsmasq-nanny-arm:1.14.13
+- kuops/k8s-dns-dnsmasq-nanny-amd64:1.14.13
+- kuops/k8s-dns-dnsmasq-nanny:1.14.13
+- kuops/etcd-s390x:3.2.24-1
+- kuops/etcd-s390x:3.2.24
+- kuops/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202
+- kuops/etcd-arm64:3.2.24
+- kuops/etcd-arm64:3.2.24-1
+- kuops/etcd-ppc64le:3.2.24-1
+- kuops/etcd-arm:3.2.24
+- kuops/etcd-amd64:3.2.24-1
+- kuops/etcd-arm:3.2.24-1
+- kuops/debian-hyperkube-base:0.10.2
+- kuops/cos-kernel-headers:latest
+- kuops/cos-kernel-headers:live
+- kuops/cos-kernel-headers:20180920-R00-00
+- kuops/debian-iptables:v10.2
+- kuops/debian-base:0.3.2
 -------------------------------at 2018-09-19 08:20:47 sync image repositorys-------------------------------
 - kuops/toolbox:latest
 - kuops/toolbox:20180918-00
