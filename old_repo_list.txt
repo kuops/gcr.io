@@ -36,11 +36,13 @@ gcr.io/google-containers/cos-nvidia-driver-install
 gcr.io/google-containers/cpvpa-amd64
 gcr.io/google-containers/cuda-vector-add
 gcr.io/google-containers/custom-metrics-stackdriver-adapter
+gcr.io/google-containers/debian-base
 gcr.io/google-containers/debian-base-amd64
 gcr.io/google-containers/debian-base-arm
 gcr.io/google-containers/debian-base-arm64
 gcr.io/google-containers/debian-base-ppc64le
 gcr.io/google-containers/debian-base-s390x
+gcr.io/google-containers/debian-hyperkube-base
 gcr.io/google-containers/debian-hyperkube-base-amd64
 gcr.io/google-containers/debian-hyperkube-base-arm
 gcr.io/google-containers/debian-hyperkube-base-arm64

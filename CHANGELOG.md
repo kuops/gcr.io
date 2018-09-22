@@ -1,3 +1,22 @@
+- kuops/hyperkube-ppc64le:v1.12.0-rc.2
+- kuops/hyperkube-s390x:v1.12.0-rc.2
+- kuops/hyperkube-arm64:v1.12.0-rc.2
+- kuops/kube-controller-manager-arm:v1.12.0-rc.2
+- kuops/hyperkube-arm:v1.12.0-rc.2
+- kuops/kube-apiserver-ppc64le:v1.12.0-rc.2
+- kuops/kube-controller-manager-amd64:v1.12.0-rc.2
+- kuops/hyperkube-amd64:v1.12.0-rc.2
+- kuops/kube-apiserver-arm64:v1.12.0-rc.2
+- kuops/kube-apiserver-arm:v1.12.0-rc.2
+- kuops/kube-apiserver-s390x:v1.12.0-rc.2
+- kuops/k8s-tpu-operator:664907cd6cf4f88b3504e884752ad10c71b585d5
+- kuops/addon-builder:latest
+- kuops/cluster-autoscaler:v1.3.3
+- kuops/cloud-controller-manager-s390x:v1.12.0-rc.2
+- kuops/cloud-controller-manager-ppc64le:v1.12.0-rc.2
+- kuops/cloud-controller-manager-arm64:v1.12.0-rc.2
+- kuops/cloud-controller-manager-amd64:v1.12.0-rc.2
+- kuops/cloud-controller-manager-arm:v1.12.0-rc.2
 -------------------------------at 2018-09-21 08:13:54 sync image repositorys-------------------------------
 - kuops/zookeeper-install-3.5.0-alpha:e2e
 - kuops/prometheus-to-sd:v0.3.2
