@@ -1,3 +1,8 @@
+-------------------------------at 2018-09-25 08:12:43 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/addon-builder:latest
 -------------------------------at 2018-09-23 08:28:11 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
