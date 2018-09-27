@@ -1,3 +1,22 @@
+-------------------------------at 2018-09-27 08:15:38 sync image repositorys-------------------------------
+- kuops/netd-amd64:latest
+- kuops/netd-amd64:0.1.6
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-scheduler:v1.12.0-rc.2
+- kuops/kube-scheduler:v1.12.0-rc.1
+- kuops/kube-proxy:v1.12.0-rc.1
+- kuops/kube-proxy:v1.12.0-rc.2
+- kuops/kube-controller-manager:v1.12.0-rc.2
+- kuops/kube-controller-manager:v1.12.0-rc.1
+- kuops/kube-apiserver:v1.12.0-rc.2
+- kuops/kube-apiserver:v1.12.0-rc.1
+- kuops/hyperkube:v1.12.0-rc.2
+- kuops/hyperkube:v1.12.0-rc.1
+- kuops/etcd:3.2.24
+- kuops/cloud-controller-manager:v1.12.0-rc.1
+- kuops/cloud-controller-manager:v1.12.0-rc.2
 -------------------------------at 2018-09-25 08:12:43 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
