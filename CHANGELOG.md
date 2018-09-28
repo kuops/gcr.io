@@ -1,3 +1,22 @@
+- kuops/hyperkube-arm:v1.12.1-beta.0
+- kuops/hyperkube-arm:v1.12.0
+- kuops/hyperkube-arm64:v1.12.1-beta.0
+- kuops/hyperkube-arm64:v1.12.0
+- kuops/hyperkube:v1.12.0
+- kuops/hyperkube-amd64:v1.12.0
+- kuops/hyperkube-amd64:v1.12.1-beta.0
+- kuops/hyperkube:v1.12.1-beta.0
+- kuops/cloud-controller-manager-s390x:v1.12.0
+- kuops/cloud-controller-manager-arm64:v1.12.0
+- kuops/cloud-controller-manager-s390x:v1.12.1-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.12.0
+- kuops/cloud-controller-manager-ppc64le:v1.12.1-beta.0
+- kuops/cloud-controller-manager-arm64:v1.12.1-beta.0
+- kuops/cloud-controller-manager-arm:v1.12.0
+- kuops/cloud-controller-manager-arm:v1.12.1-beta.0
+- kuops/cloud-controller-manager:v1.12.0
+- kuops/cloud-controller-manager-amd64:v1.12.0
+- kuops/cloud-controller-manager-amd64:v1.12.1-beta.0
 -------------------------------at 2018-09-27 08:15:38 sync image repositorys-------------------------------
 - kuops/netd-amd64:latest
 - kuops/netd-amd64:0.1.6
