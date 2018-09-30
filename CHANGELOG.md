@@ -1,3 +1,9 @@
+-------------------------------at 2018-09-30 08:19:25 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gcp-controller-manager:1aa2dddbbc427899e0dd5f313829552c0892e247
+- kuops/defaultbackend-amd64:1.5
 -------------------------------at 2018-09-28 08:23:58 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
