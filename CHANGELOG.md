@@ -1,3 +1,20 @@
+-------------------------------at 2018-10-03 08:19:33 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-addon-manager-s390x:v8.8
+- kuops/kube-addon-manager-ppc64le:v8.8
+- kuops/kube-addon-manager-arm64:v8.8
+- kuops/kube-addon-manager-arm:v8.8
+- kuops/kube-addon-manager:v8.8
+- kuops/kube-addon-manager-amd64:v8.8
+- kuops/defaultbackend-ppc64le:1.5
+- kuops/defaultbackend-arm64:1.5
+- kuops/defaultbackend-arm:1.5
+- kuops/cluster-proportional-autoscaler-ppc64le:1.3.0
+- kuops/cluster-proportional-autoscaler-arm64:1.3.0
+- kuops/cluster-proportional-autoscaler-amd64:1.3.0
+- kuops/cluster-proportional-autoscaler-arm:1.3.0
 -------------------------------at 2018-10-02 08:28:03 sync image repositorys-------------------------------
 - kuops/netd-amd64:0.1.7
 - kuops/netd-amd64:latest
