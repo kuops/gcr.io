@@ -1,3 +1,8 @@
+-------------------------------at 2018-10-10 08:37:13 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/ip-masq-agent-amd64:v2.2.0
 -------------------------------at 2018-10-08 08:51:25 sync image repositorys-------------------------------
 - kuops/kubedns-amd64:1.2.test
 - kuops/netd-amd64:0.1.8
