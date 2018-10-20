@@ -1,3 +1,12 @@
+-------------------------------at 2018-10-20 08:28:31 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/debian-base-ppc64le:0.4.0
+- kuops/debian-base-arm64:0.4.0
+- kuops/debian-base-arm:0.4.0
+- kuops/debian-base:0.4.0
+- kuops/debian-base-amd64:0.4.0
 -------------------------------at 2018-10-19 08:28:25 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
