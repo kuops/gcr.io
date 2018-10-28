@@ -30,6 +30,12 @@ gcr.io/google-containers/cluster-proportional-autoscaler-arm64
 gcr.io/google-containers/cluster-proportional-autoscaler-ppc64le
 gcr.io/google-containers/clusterapi-tester
 gcr.io/google-containers/clusterregistry
+gcr.io/google-containers/conformance
+gcr.io/google-containers/conformance-amd64
+gcr.io/google-containers/conformance-arm
+gcr.io/google-containers/conformance-arm64
+gcr.io/google-containers/conformance-ppc64le
+gcr.io/google-containers/conformance-s390x
 gcr.io/google-containers/coredns
 gcr.io/google-containers/cos-kernel-headers
 gcr.io/google-containers/cos-nvidia-driver-install
