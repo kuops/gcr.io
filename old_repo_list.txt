@@ -319,6 +319,7 @@ gcr.io/google-containers/loader
 gcr.io/google-containers/logexp
 gcr.io/google-containers/logexporter
 gcr.io/google-containers/logs-generator
+gcr.io/google-containers/managed-certificate-controller
 gcr.io/google-containers/metadata-proxy
 gcr.io/google-containers/metrics-server
 gcr.io/google-containers/metrics-server-amd64
