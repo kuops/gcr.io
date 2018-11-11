@@ -1,3 +1,7 @@
+-------------------------------at 2018-11-11 09:12:15 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2018-11-10 08:35:48 sync image repositorys-------------------------------
 - kuops/vpa-admission-controller:0.3.0
 - kuops/vpa-updater:0.3.0
