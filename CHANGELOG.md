@@ -1,3 +1,23 @@
+- kuops/k8s-dns-sidecar-amd64:1.15.0
+- kuops/k8s-dns-sidecar:1.15.0
+- kuops/k8s-dns-node-cache-arm:1.15.0
+- kuops/k8s-dns-node-cache-arm64:1.15.0
+- kuops/k8s-dns-node-cache-ppc64le:1.15.0
+- kuops/k8s-dns-node-cache-s390x:1.15.0
+- kuops/k8s-dns-node-cache:1.15.0
+- kuops/k8s-dns-kube-dns-s390x:1.15.0
+- kuops/k8s-dns-node-cache-amd64:1.15.0
+- kuops/k8s-dns-kube-dns-ppc64le:1.15.0
+- kuops/k8s-dns-kube-dns-arm64:1.15.0
+- kuops/k8s-dns-kube-dns-arm:1.15.0
+- kuops/k8s-dns-kube-dns-amd64:1.15.0
+- kuops/k8s-dns-kube-dns:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny-s390x:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny-ppc64le:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny-arm64:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny-arm:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny-amd64:1.15.0
+- kuops/k8s-dns-dnsmasq-nanny:1.15.0
 -------------------------------at 2018-11-11 09:12:15 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
