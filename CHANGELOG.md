@@ -1,3 +1,11 @@
+-------------------------------at 2018-11-13 08:56:54 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/k8s-dns-sidecar-s390x:1.15.0
+- kuops/k8s-dns-sidecar-ppc64le:1.15.0
+- kuops/k8s-dns-sidecar-arm64:1.15.0
+- kuops/k8s-dns-sidecar-arm:1.15.0
 - kuops/k8s-dns-sidecar-amd64:1.15.0
 - kuops/k8s-dns-sidecar:1.15.0
 - kuops/k8s-dns-node-cache-arm:1.15.0
