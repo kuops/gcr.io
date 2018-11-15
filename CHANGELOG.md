@@ -1,3 +1,12 @@
+-------------------------------at 2018-11-15 08:48:34 sync image repositorys-------------------------------
+- kuops/managed-certificate-controller:v0.1.1
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-scheduler-ppc64le:v1.10.11-beta.0
+- kuops/kube-scheduler-s390x:v1.10.10
+- kuops/kube-scheduler-s390x:v1.10.11-beta.0
+- kuops/kube-scheduler-ppc64le:v1.10.10
 - kuops/kube-scheduler-arm64:v1.10.11-beta.0
 - kuops/kube-scheduler-arm:v1.10.10
 - kuops/kube-scheduler-arm:v1.10.11-beta.0
