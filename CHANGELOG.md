@@ -1,3 +1,9 @@
+-------------------------------at 2018-11-16 08:47:41 sync image repositorys-------------------------------
+- kuops/metadata-proxy:v0.1.11
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gke-mpi-metadata-server:v0.1.0
 -------------------------------at 2018-11-15 08:48:34 sync image repositorys-------------------------------
 - kuops/managed-certificate-controller:v0.1.1
 - kuops/kubedns-arm64:1.2.test
