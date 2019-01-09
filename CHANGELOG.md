@@ -1,3 +1,4 @@
+-------------------------------at 2019-01-09 09:00:06 sync image repositorys-------------------------------
 -------------------------------at 2019-01-09 05:12:02 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:768a269e8b84c091059ea8f53211658e151740d7
 - kuops/ubuntu-nvidia-driver-installer:d65bdb5dc2ed00db7713fb7ec6346885082a0aea
