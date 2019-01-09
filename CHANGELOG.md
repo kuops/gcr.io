@@ -1,3 +1,12 @@
+-------------------------------at 2019-01-09 05:12:02 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:768a269e8b84c091059ea8f53211658e151740d7
+- kuops/ubuntu-nvidia-driver-installer:d65bdb5dc2ed00db7713fb7ec6346885082a0aea
+- kuops/ubuntu-nvidia-driver-installer:24d855c61256f0efccc45cf2e38d66b309404e0b
+- kuops/ubuntu-nvidia-driver-installer:aaaeb040a9af5f782275cbd5cc610582389578a3
+- kuops/nvidia-gpu-device-plugin:24d855c61256f0efccc45cf2e38d66b309404e0b
+- kuops/nvidia-gpu-device-plugin:768a269e8b84c091059ea8f53211658e151740d7
+- kuops/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3
+- kuops/node-problem-detector:v0.6.1
 - kuops/node-problem-detector:v0.6.2
 - kuops/kubernetes-dashboard-s390x:v1.10.1
 - kuops/kubernetes-dashboard-ppc64le:v1.10.1
