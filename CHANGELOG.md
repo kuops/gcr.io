@@ -1,3 +1,23 @@
+- kuops/addon-builder:latest
+- kuops/cloud-controller-manager:v1.11.7-beta.0
+- kuops/cloud-controller-manager:v1.11.5
+- kuops/cloud-controller-manager:v1.13.0-rc.1
+- kuops/cloud-controller-manager:v1.10.13-beta.0
+- kuops/cloud-controller-manager:v1.12.5-beta.0
+- kuops/cloud-controller-manager:v1.12.3
+- kuops/cloud-controller-manager:v1.12.4-beta.0
+- kuops/cloud-controller-manager:v1.11.6-beta.0
+- kuops/cloud-controller-manager:v1.13.0
+- kuops/cloud-controller-manager:v1.11.6
+- kuops/cloud-controller-manager:v1.13.0-beta.2
+- kuops/cloud-controller-manager:v1.12.4
+- kuops/cloud-controller-manager:v1.13.2-beta.0
+- kuops/cloud-controller-manager:v1.10.11
+- kuops/cloud-controller-manager:v1.13.1-beta.0
+- kuops/cloud-controller-manager:v1.10.12
+- kuops/cloud-controller-manager:v1.13.1
+- kuops/cloud-controller-manager:v1.13.0-rc.2
+- kuops/cadvisor:v0.32.0
 -------------------------------at 2018-11-19 09:15:31 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
