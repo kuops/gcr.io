@@ -1,3 +1,9 @@
+-------------------------------at 2019-01-10 09:19:14 sync image repositorys-------------------------------
+- kuops/managed-certificate-controller:v0.2
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.4.1
 -------------------------------at 2019-01-09 09:00:06 sync image repositorys-------------------------------
 -------------------------------at 2019-01-09 05:12:02 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:768a269e8b84c091059ea8f53211658e151740d7
