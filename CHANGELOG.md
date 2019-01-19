@@ -1,3 +1,10 @@
+-------------------------------at 2019-01-19 09:12:14 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.4.2
+- kuops/cos-kernel-headers:20190118-R00-00
+- kuops/cos-kernel-headers:latest
 -------------------------------at 2019-01-18 09:18:44 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
