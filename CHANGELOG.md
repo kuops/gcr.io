@@ -1,3 +1,23 @@
+- kuops/hyperkube-arm64:v1.11.8-beta.0
+- kuops/hyperkube-arm64:v1.11.7
+- kuops/hyperkube-arm:v1.11.8-beta.0
+- kuops/hyperkube-arm:v1.11.7
+- kuops/hyperkube:v1.11.8-beta.0
+- kuops/hyperkube-amd64:v1.11.8-beta.0
+- kuops/hyperkube-amd64:v1.11.7
+- kuops/hyperkube:v1.11.7
+- kuops/cloud-controller-manager-s390x:v1.11.8-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.11.8-beta.0
+- kuops/cloud-controller-manager-s390x:v1.11.7
+- kuops/cloud-controller-manager-ppc64le:v1.11.7
+- kuops/cloud-controller-manager-arm64:v1.11.8-beta.0
+- kuops/cloud-controller-manager-arm64:v1.11.7
+- kuops/cloud-controller-manager-arm:v1.11.8-beta.0
+- kuops/cloud-controller-manager-arm:v1.11.7
+- kuops/cloud-controller-manager:v1.11.8-beta.0
+- kuops/cloud-controller-manager-amd64:v1.11.7
+- kuops/cloud-controller-manager-amd64:v1.11.8-beta.0
+- kuops/cloud-controller-manager:v1.11.7
 -------------------------------at 2019-01-23 09:14:08 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:8768accc7565cebd3203fa08ebafad121b89d6dd
 - kuops/ubuntu-nvidia-driver-installer:feb27ef33e5fdf1b8ec7dafbf4cf527ee400278a
