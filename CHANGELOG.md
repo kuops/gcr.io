@@ -1,3 +1,22 @@
+-------------------------------at 2019-01-27 09:22:21 sync image repositorys-------------------------------
+- kuops/kube-cross:v1.10.8-1
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-cross:v1.11.5-1
+- kuops/etcd-s390x:3.2.26-0
+- kuops/etcd-ppc64le:3.2.26-0
+- kuops/etcd-ppc64le:3.2.26
+- kuops/git-sync:v3.1.0
+- kuops/etcd-arm:3.2.26
+- kuops/etcd-arm:3.2.26-0
+- kuops/etcd-arm64:3.2.26-0
+- kuops/etcd-arm64:3.2.26
+- kuops/etcd:3.2.26
+- kuops/etcd:3.2.26-0
+- kuops/etcd-amd64:3.2.26
+- kuops/etcd-amd64:3.2.26-0
+- kuops/etcd-empty-dir-cleanup:3.2.26.0
 -------------------------------at 2019-01-25 09:23:38 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
 - kuops/nvidia-gpu-device-plugin:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
