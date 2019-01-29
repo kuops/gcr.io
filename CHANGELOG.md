@@ -1,3 +1,13 @@
+-------------------------------at 2019-01-29 09:16:30 sync image repositorys-------------------------------
+- kuops/netd-amd64:0.2.0
+- kuops/netd-amd64:latest
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/cluster-proportional-autoscaler-ppc64le:1.4.0
+- kuops/cluster-proportional-autoscaler-arm64:1.4.0
+- kuops/cluster-proportional-autoscaler-amd64:1.4.0
+- kuops/cluster-proportional-autoscaler-arm:1.4.0
 -------------------------------at 2019-01-28 09:49:50 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
