@@ -1,3 +1,23 @@
+- kuops/kube-apiserver:v1.14.0-alpha.2
+- kuops/hyperkube-s390x:v1.14.0-alpha.2
+- kuops/hyperkube-ppc64le:v1.14.0-alpha.2
+- kuops/hyperkube-arm64:v1.14.0-alpha.2
+- kuops/hyperkube-arm:v1.14.0-alpha.2
+- kuops/hyperkube:v1.14.0-alpha.2
+- kuops/hyperkube-amd64:v1.14.0-alpha.2
+- kuops/gke-cloud-kms-plugin:0.1
+- kuops/conformance-s390x:v1.14.0-alpha.2
+- kuops/conformance-ppc64le:v1.14.0-alpha.2
+- kuops/conformance:v1.14.0-alpha.2
+- kuops/conformance-arm64:v1.14.0-alpha.2
+- kuops/conformance-amd64:v1.14.0-alpha.2
+- kuops/conformance-arm:v1.14.0-alpha.2
+- kuops/cloud-controller-manager-s390x:v1.14.0-alpha.2
+- kuops/cloud-controller-manager-ppc64le:v1.14.0-alpha.2
+- kuops/cloud-controller-manager-arm64:v1.14.0-alpha.2
+- kuops/cloud-controller-manager-arm:v1.14.0-alpha.2
+- kuops/cloud-controller-manager-amd64:v1.14.0-alpha.2
+- kuops/cloud-controller-manager:v1.14.0-alpha.2
 -------------------------------at 2019-01-29 09:16:30 sync image repositorys-------------------------------
 - kuops/netd-amd64:0.2.0
 - kuops/netd-amd64:latest
