@@ -1,3 +1,5 @@
+-------------------------------at 2019-01-31 09:20:52 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
 - kuops/kubedns-amd64:1.2.test
 - kuops/debian-hyperkube-base-s390x:0.12.1
