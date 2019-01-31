@@ -1,3 +1,23 @@
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/debian-hyperkube-base-s390x:0.12.1
+- kuops/debian-hyperkube-base-ppc64le:0.12.1
+- kuops/debian-hyperkube-base-arm64:0.12.1
+- kuops/debian-hyperkube-base-amd64:0.12.1
+- kuops/debian-hyperkube-base:0.12.1
+- kuops/debian-hyperkube-base-arm:0.12.1
+- kuops/debian-iptables-arm:v11.0.1
+- kuops/debian-iptables-ppc64le:v11.0.1
+- kuops/debian-iptables-amd64:v11.0.1
+- kuops/debian-iptables:v11.0.1
+- kuops/debian-iptables-arm64:v11.0.1
+- kuops/debian-iptables-s390x:v11.0.1
+- kuops/debian-base-ppc64le:0.4.1
+- kuops/debian-base-s390x:0.4.1
+- kuops/debian-base-arm64:0.4.1
+- kuops/debian-base-arm:0.4.1
+- kuops/debian-base:0.4.1
+- kuops/debian-base-amd64:0.4.1
 -------------------------------at 2019-01-30 09:19:28 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
