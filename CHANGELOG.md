@@ -1,3 +1,23 @@
+- kuops/conformance-arm64:v1.13.4-beta.0
+- kuops/conformance-arm:v1.13.4-beta.0
+- kuops/conformance-arm:v1.13.3
+- kuops/conformance:v1.13.3
+- kuops/conformance-amd64:v1.13.3
+- kuops/conformance-amd64:v1.13.4-beta.0
+- kuops/conformance:v1.13.4-beta.0
+- kuops/cluster-autoscaler:v1.3.6
+- kuops/cloud-controller-manager-s390x:v1.13.4-beta.0
+- kuops/cloud-controller-manager-s390x:v1.13.3
+- kuops/cloud-controller-manager-ppc64le:v1.13.3
+- kuops/cloud-controller-manager-arm64:v1.13.4-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.13.4-beta.0
+- kuops/cloud-controller-manager-arm64:v1.13.3
+- kuops/cloud-controller-manager-arm:v1.13.4-beta.0
+- kuops/cloud-controller-manager-arm:v1.13.3
+- kuops/cloud-controller-manager-amd64:v1.13.3
+- kuops/cloud-controller-manager:v1.13.4-beta.0
+- kuops/cloud-controller-manager:v1.13.3
+- kuops/cloud-controller-manager-amd64:v1.13.4-beta.0
 -------------------------------at 2019-02-01 09:53:12 sync image repositorys-------------------------------
 - kuops/vpa-updater:0.3.1
 - kuops/vpa-admission-controller:0.3.1
