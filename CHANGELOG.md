@@ -1,3 +1,14 @@
+-------------------------------at 2019-02-21 09:33:08 sync image repositorys-------------------------------
+- kuops/vpa-admission-controller:0.4.0
+- kuops/vpa-updater:0.4.0
+- kuops/vpa-recommender:0.4.0
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-scheduler-s390x:v1.14.0-beta.0
+- kuops/kube-scheduler-s390x:v1.15.0-alpha.0
+- kuops/kube-scheduler-ppc64le:v1.14.0-beta.0
+- kuops/kube-scheduler-arm64:v1.15.0-alpha.0
 - kuops/kube-scheduler-arm64:v1.14.0-beta.0
 - kuops/kube-scheduler-arm:v1.14.0-beta.0
 - kuops/kube-scheduler-arm:v1.15.0-alpha.0
