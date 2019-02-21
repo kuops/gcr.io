@@ -1,3 +1,22 @@
+- kuops/conformance-arm64:v1.15.0-alpha.0
+- kuops/conformance-arm64:v1.14.0-beta.0
+- kuops/conformance-arm:v1.14.0-beta.0
+- kuops/conformance-arm:v1.15.0-alpha.0
+- kuops/conformance:v1.14.0-beta.0
+- kuops/conformance-amd64:v1.14.0-beta.0
+- kuops/conformance:v1.15.0-alpha.0
+- kuops/conformance-amd64:v1.15.0-alpha.0
+- kuops/cloud-controller-manager-s390x:v1.15.0-alpha.0
+- kuops/cloud-controller-manager-ppc64le:v1.15.0-alpha.0
+- kuops/cloud-controller-manager-ppc64le:v1.14.0-beta.0
+- kuops/cloud-controller-manager-s390x:v1.14.0-beta.0
+- kuops/cloud-controller-manager-arm64:v1.14.0-beta.0
+- kuops/cloud-controller-manager-arm64:v1.15.0-alpha.0
+- kuops/cloud-controller-manager-arm:v1.14.0-beta.0
+- kuops/cloud-controller-manager-arm:v1.15.0-alpha.0
+- kuops/cloud-controller-manager:v1.15.0-alpha.0
+- kuops/cloud-controller-manager:v1.14.0-beta.0
+- kuops/cloud-controller-manager-amd64:v1.15.0-alpha.0
 -------------------------------at 2019-02-19 09:58:28 sync image repositorys-------------------------------
 - kuops/prometheus-to-sd:v0.4.2
 - kuops/kubedns-arm64:1.2.test
