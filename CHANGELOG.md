@@ -1,3 +1,8 @@
+-------------------------------at 2019-02-22 09:35:08 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
 -------------------------------at 2019-02-21 09:33:08 sync image repositorys-------------------------------
 - kuops/vpa-admission-controller:0.4.0
 - kuops/vpa-updater:0.4.0
