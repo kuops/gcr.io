@@ -1,3 +1,10 @@
+-------------------------------at 2019-02-25 10:04:31 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:4d5db9638165d86f0c58001f45ea111ce3d8e4a0
+- kuops/ubuntu-nvidia-driver-installer:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
+- kuops/nvidia-gpu-device-plugin:4d5db9638165d86f0c58001f45ea111ce3d8e4a0
+- kuops/nvidia-gpu-device-plugin:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
 -------------------------------at 2019-02-23 10:02:27 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
