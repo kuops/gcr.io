@@ -1,3 +1,23 @@
+- kuops/conformance-amd64:v1.14.0-beta.1
+- kuops/conformance:v1.14.0-beta.1
+- kuops/cloud-controller-manager-s390x:v1.14.0-beta.1
+- kuops/cloud-controller-manager-arm64:v1.12.6
+- kuops/cloud-controller-manager-s390x:v1.12.6
+- kuops/cloud-controller-manager-s390x:v1.12.7-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.12.7-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.14.0-beta.1
+- kuops/cloud-controller-manager-ppc64le:v1.12.6
+- kuops/cloud-controller-manager-arm:v1.12.6
+- kuops/cloud-controller-manager-arm64:v1.12.7-beta.0
+- kuops/cloud-controller-manager-arm64:v1.14.0-beta.1
+- kuops/cloud-controller-manager-arm:v1.12.7-beta.0
+- kuops/cloud-controller-manager-arm:v1.14.0-beta.1
+- kuops/cloud-controller-manager-amd64:v1.14.0-beta.1
+- kuops/cloud-controller-manager:v1.14.0-beta.1
+- kuops/cloud-controller-manager-amd64:v1.12.6
+- kuops/cloud-controller-manager:v1.12.7-beta.0
+- kuops/cloud-controller-manager:v1.12.6
+- kuops/cloud-controller-manager-amd64:v1.12.7-beta.0
 -------------------------------at 2019-02-25 10:04:31 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:4d5db9638165d86f0c58001f45ea111ce3d8e4a0
 - kuops/ubuntu-nvidia-driver-installer:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
