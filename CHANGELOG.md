@@ -1,3 +1,14 @@
+-------------------------------at 2019-02-28 09:44:53 sync image repositorys-------------------------------
+- kuops/prometheus-to-sd:v0.5.0
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-cross:v1.12.0-1
+- kuops/kubedns-arm:1.2.test
+- kuops/kube-state-metrics-s390x:v1.5.0
+- kuops/kube-state-metrics-ppc64le:v1.5.0
+- kuops/kube-state-metrics-arm64:v1.5.0
+- kuops/kube-state-metrics-arm:v1.5.0
+- kuops/ingress-gce-glbc-amd64:v1.5.0
 -------------------------------at 2019-02-27 09:42:28 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
