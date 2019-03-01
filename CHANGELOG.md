@@ -1,3 +1,21 @@
+- kuops/cloud-controller-manager-ppc64le:v1.13.4
+- kuops/cloud-controller-manager-ppc64le:v1.11.9-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.13.5-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.11.8
+- kuops/cloud-controller-manager-arm64:v1.13.5-beta.0
+- kuops/cloud-controller-manager-arm64:v1.13.4
+- kuops/cloud-controller-manager-arm64:v1.11.9-beta.0
+- kuops/cloud-controller-manager-arm:v1.11.8
+- kuops/cloud-controller-manager-arm64:v1.11.8
+- kuops/cloud-controller-manager-arm:v1.13.4
+- kuops/cloud-controller-manager-arm:v1.13.5-beta.0
+- kuops/cloud-controller-manager-arm:v1.11.9-beta.0
+- kuops/cloud-controller-manager-amd64:v1.11.8
+- kuops/cloud-controller-manager:v1.13.5-beta.0
+- kuops/cloud-controller-manager:v1.11.8
+- kuops/cloud-controller-manager-amd64:v1.11.9-beta.0
+- kuops/cloud-controller-manager:v1.11.9-beta.0
+- kuops/cloud-controller-manager-amd64:v1.13.4
 -------------------------------at 2019-02-28 09:44:53 sync image repositorys-------------------------------
 - kuops/prometheus-to-sd:v0.5.0
 - kuops/kubedns-arm64:1.2.test
