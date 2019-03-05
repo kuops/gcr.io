@@ -1,3 +1,8 @@
+-------------------------------at 2019-03-05 10:08:09 sync image repositorys-------------------------------
+- kuops/kubelet-to-gcm:1.2.9
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2019-03-03 10:05:03 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
