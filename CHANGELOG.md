@@ -1,3 +1,11 @@
+-------------------------------at 2019-03-09 09:34:47 sync image repositorys-------------------------------
+- kuops/kubelet-to-gcm:1.2.10
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/cluster-autoscaler:v1.12.3
+- kuops/cluster-autoscaler:v1.3.8
+- kuops/cluster-autoscaler:v1.14.0-beta.1
 -------------------------------at 2019-03-08 09:34:36 sync image repositorys-------------------------------
 - kuops/managed-certificate-controller:v0.3.0
 - kuops/kubedns-arm64:1.2.test
