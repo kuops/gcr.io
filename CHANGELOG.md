@@ -1,3 +1,8 @@
+-------------------------------at 2019-03-14 09:47:55 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
 -------------------------------at 2019-03-13 09:42:18 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
