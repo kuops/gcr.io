@@ -1,3 +1,14 @@
+-------------------------------at 2019-03-16 09:42:04 sync image repositorys-------------------------------
+- kuops/kubedns-arm:1.2.test
+- kuops/prometheus-to-sd:v0.5.1
+- kuops/kubedns-arm64:1.2.test
+- kuops/kube-cross:v1.12.1-1
+- kuops/kubedns-amd64:1.2.test
+- kuops/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5
+- kuops/gke-metadata-server:v0.2.2
+- kuops/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
+- kuops/fluentd-gcp:2.1.0
+- kuops/cluster-autoscaler:v1.14.0-beta.2
 -------------------------------at 2019-03-14 09:47:55 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
