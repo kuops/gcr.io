@@ -1,3 +1,6 @@
+-------------------------------at 2019-03-17 09:54:38 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2019-03-16 09:42:04 sync image repositorys-------------------------------
 - kuops/kubedns-arm:1.2.test
 - kuops/prometheus-to-sd:v0.5.1
