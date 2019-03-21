@@ -1,3 +1,9 @@
+-------------------------------at 2019-03-21 09:50:11 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
+- kuops/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19
 -------------------------------at 2019-03-20 09:45:59 sync image repositorys-------------------------------
 - kuops/toolbox:latest
 - kuops/kubedns-arm64:1.2.test
