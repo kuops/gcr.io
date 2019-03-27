@@ -1,3 +1,23 @@
+- kuops/cloud-controller-manager-arm:v1.14.0
+- kuops/cloud-controller-manager-arm:v1.13.5
+- kuops/cloud-controller-manager-arm:v1.14.1-beta.0
+- kuops/cloud-controller-manager-arm:v1.13.6-beta.0
+- kuops/cloud-controller-manager:v1.12.8-beta.0
+- kuops/cloud-controller-manager-amd64:v1.12.8-beta.0
+- kuops/cloud-controller-manager:v1.14.1-beta.0
+- kuops/cloud-controller-manager:v1.14.0
+- kuops/cloud-controller-manager-amd64:v1.14.1-beta.0
+- kuops/cloud-controller-manager-amd64:v1.12.7
+- kuops/cloud-controller-manager:v1.12.7
+- kuops/cloud-controller-manager-amd64:v1.14.0
+- kuops/cloud-controller-manager:v1.11.9
+- kuops/cloud-controller-manager-amd64:v1.13.6-beta.0
+- kuops/cloud-controller-manager-amd64:v1.13.5
+- kuops/cloud-controller-manager-amd64:v1.11.9
+- kuops/cloud-controller-manager:v1.13.5
+- kuops/cloud-controller-manager-amd64:v1.11.10-beta.0
+- kuops/cloud-controller-manager:v1.13.6-beta.0
+- kuops/cloud-controller-manager:v1.11.10-beta.0
 -------------------------------at 2019-03-25 10:22:45 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
