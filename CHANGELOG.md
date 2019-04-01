@@ -1,3 +1,7 @@
+-------------------------------at 2019-04-01 10:24:54 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2019-03-30 09:41:29 sync image repositorys-------------------------------
 -------------------------------at 2019-03-30 09:13:16 sync image repositorys-------------------------------
 - kuops/vpa-recommender:0.5.0
