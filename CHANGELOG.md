@@ -1,3 +1,13 @@
+-------------------------------at 2019-04-03 09:50:31 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/debian-iptables-s390x:v11.0.2
+- kuops/debian-iptables-ppc64le:v11.0.2
+- kuops/debian-iptables-arm64:v11.0.2
+- kuops/debian-iptables-arm:v11.0.2
+- kuops/debian-iptables:v11.0.2
+- kuops/debian-iptables-amd64:v11.0.2
 -------------------------------at 2019-04-01 10:24:54 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
