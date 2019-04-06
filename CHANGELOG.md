@@ -1,3 +1,11 @@
+-------------------------------at 2019-04-06 09:47:47 sync image repositorys-------------------------------
+- kuops/node-problem-detector:v0.6.3
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/gcp-controller-manager:aa768aa30de1936f81bf2bc5e5d19d136a3af763
+- kuops/cadvisor:v0.33.0
+- kuops/cadvisor:latest
 -------------------------------at 2019-04-03 09:50:31 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
