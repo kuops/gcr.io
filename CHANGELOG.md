@@ -1,3 +1,22 @@
+- kuops/conformance-arm64:v1.14.1
+- kuops/conformance-arm64:v1.14.2-beta.0
+- kuops/conformance-arm:v1.14.1
+- kuops/conformance-arm:v1.14.2-beta.0
+- kuops/conformance-amd64:v1.14.2-beta.0
+- kuops/conformance:v1.14.2-beta.0
+- kuops/conformance-amd64:v1.14.1
+- kuops/conformance:v1.14.1
+- kuops/cloud-controller-manager-s390x:v1.14.2-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.14.2-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.14.1
+- kuops/cloud-controller-manager-arm64:v1.14.2-beta.0
+- kuops/cloud-controller-manager-arm64:v1.14.1
+- kuops/cloud-controller-manager-arm:v1.14.1
+- kuops/cloud-controller-manager-arm:v1.14.2-beta.0
+- kuops/cloud-controller-manager-amd64:v1.14.2-beta.0
+- kuops/cloud-controller-manager-amd64:v1.14.1
+- kuops/cloud-controller-manager:v1.14.2-beta.0
+- kuops/cloud-controller-manager:v1.14.1
 -------------------------------at 2019-04-06 09:47:47 sync image repositorys-------------------------------
 - kuops/node-problem-detector:v0.6.3
 - kuops/kubedns-arm64:1.2.test
