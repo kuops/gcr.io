@@ -1,3 +1,7 @@
+-------------------------------at 2019-04-10 10:28:42 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2019-04-09 10:03:40 sync image repositorys-------------------------------
 - kuops/watcher-daemonset:latest
 - kuops/kubedns-arm64:1.2.test
