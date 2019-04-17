@@ -1,3 +1,23 @@
+- kuops/hyperkube-s390x:v1.15.0-alpha.1
+- kuops/hyperkube-ppc64le:v1.15.0-alpha.1
+- kuops/addon-builder:latest
+- kuops/hyperkube-arm64:v1.15.0-alpha.1
+- kuops/hyperkube-arm:v1.15.0-alpha.1
+- kuops/hyperkube:v1.15.0-alpha.1
+- kuops/hyperkube-amd64:v1.15.0-alpha.1
+- kuops/conformance-ppc64le:v1.15.0-alpha.1
+- kuops/conformance-s390x:v1.15.0-alpha.1
+- kuops/conformance-arm64:v1.15.0-alpha.1
+- kuops/gcp-controller-manager:001b7220e200840c7daa1f1dde673a868009e5b5
+- kuops/conformance-arm:v1.15.0-alpha.1
+- kuops/conformance:v1.15.0-alpha.1
+- kuops/conformance-amd64:v1.15.0-alpha.1
+- kuops/cloud-controller-manager-s390x:v1.15.0-alpha.1
+- kuops/cloud-controller-manager-ppc64le:v1.15.0-alpha.1
+- kuops/cloud-controller-manager-arm64:v1.15.0-alpha.1
+- kuops/cloud-controller-manager-arm:v1.15.0-alpha.1
+- kuops/cloud-controller-manager-amd64:v1.15.0-alpha.1
+- kuops/cloud-controller-manager:v1.15.0-alpha.1
 -------------------------------at 2019-04-15 10:30:45 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
