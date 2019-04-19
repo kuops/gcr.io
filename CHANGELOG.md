@@ -1,3 +1,11 @@
+-------------------------------at 2019-04-19 10:01:56 sync image repositorys-------------------------------
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/fluentd-gcp:2.1.1
+- kuops/gke-metadata-server:89f06b8083c6bfc052eb504af55e9b91b944d500
+- kuops/gke-metadata-server:v0.2.3
+- kuops/fluentd-gcp-scaler:0.5.2
 -------------------------------at 2019-04-17 10:09:48 sync image repositorys-------------------------------
 - kuops/managed-certificate-controller:v0.3.1
 - kuops/kubedns-arm64:1.2.test
