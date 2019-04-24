@@ -1,3 +1,4 @@
+-------------------------------at 2019-04-24 10:09:18 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-arm:1.2.test
