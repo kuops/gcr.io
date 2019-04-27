@@ -1,3 +1,8 @@
+-------------------------------at 2019-04-27 10:07:43 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gke-metadata-server:v0.2.4
 -------------------------------at 2019-04-26 10:01:32 sync image repositorys-------------------------------
 - kuops/vpa-updater:0.5.1
 - kuops/ubuntu-nvidia-driver-installer:da65b6481504e3e014060cd8d7e08764c79ba586
