@@ -1,3 +1,5 @@
+-------------------------------at 2019-05-01 10:13:28 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
 - kuops/kubedns-arm:1.2.test
 - kuops/kube-scheduler-ppc64le:v1.15.0-alpha.2
