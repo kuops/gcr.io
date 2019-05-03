@@ -1,3 +1,23 @@
+- kuops/hyperkube:v1.11.11-beta.0
+- kuops/hyperkube:v1.11.10
+- kuops/gke-node-termination-handler:224006134340feec6367344de3b09f1871eda27c
+- kuops/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e
+- kuops/cloud-controller-manager-s390x:v1.11.11-beta.0
+- kuops/cluster-proportional-autoscaler-ppc64le:1.6.0
+- kuops/cluster-proportional-autoscaler-arm64:1.6.0
+- kuops/cluster-proportional-autoscaler-amd64:1.6.0
+- kuops/cloud-controller-manager-s390x:v1.11.10
+- kuops/cloud-controller-manager-ppc64le:v1.11.10
+- kuops/cloud-controller-manager-ppc64le:v1.11.11-beta.0
+- kuops/cluster-proportional-autoscaler-arm:1.6.0
+- kuops/cloud-controller-manager-arm64:v1.11.10
+- kuops/cloud-controller-manager-arm64:v1.11.11-beta.0
+- kuops/cloud-controller-manager-arm:v1.11.10
+- kuops/cloud-controller-manager-arm:v1.11.11-beta.0
+- kuops/cloud-controller-manager-amd64:v1.11.10
+- kuops/cloud-controller-manager:v1.11.11-beta.0
+- kuops/cloud-controller-manager:v1.11.10
+- kuops/cloud-controller-manager-amd64:v1.11.11-beta.0
 -------------------------------at 2019-05-01 10:13:28 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
