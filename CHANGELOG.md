@@ -1,3 +1,22 @@
+-------------------------------at 2019-05-03 10:12:09 sync image repositorys-------------------------------
+- kuops/metrics-server:v0.3.3
+- kuops/metrics-server-amd64:v0.3.3
+- kuops/metadata-proxy:v0.1.12
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kube-scheduler-s390x:v1.11.11-beta.0
+- kuops/kube-scheduler-s390x:v1.11.10
+- kuops/kube-scheduler-ppc64le:v1.11.11-beta.0
+- kuops/kube-scheduler-ppc64le:v1.11.10
+- kuops/kube-scheduler-arm64:v1.11.10
+- kuops/kube-scheduler-arm64:v1.11.11-beta.0
+- kuops/kube-scheduler-arm:v1.11.10
+- kuops/kube-scheduler-arm:v1.11.11-beta.0
+- kuops/kube-scheduler-amd64:v1.11.10
+- kuops/kube-scheduler-amd64:v1.11.11-beta.0
+- kuops/kube-scheduler:v1.11.11-beta.0
+- kuops/kube-scheduler:v1.11.10
 - kuops/kube-proxy-s390x:v1.11.10
 - kuops/kube-proxy-s390x:v1.11.11-beta.0
 - kuops/kube-proxy-ppc64le:v1.11.11-beta.0
