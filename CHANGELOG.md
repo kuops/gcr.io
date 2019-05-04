@@ -1,3 +1,10 @@
+-------------------------------at 2019-05-04 10:12:53 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/ingress-gce-glbc-amd64:v1.5.2
+- kuops/gke-metadata-server:v0.2.5
+- kuops/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f
 -------------------------------at 2019-05-03 10:12:09 sync image repositorys-------------------------------
 - kuops/metrics-server:v0.3.3
 - kuops/metrics-server-amd64:v0.3.3
