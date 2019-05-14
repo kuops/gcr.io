@@ -1,3 +1,14 @@
+-------------------------------at 2019-05-14 10:12:33 sync image repositorys-------------------------------
+- kuops/prometheus-to-sd:v0.5.2
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/ip-masq-agent-ppc64le:v2.4.0
+- kuops/ip-masq-agent-arm64:v2.4.0
+- kuops/ip-masq-agent-arm:v2.4.0
+- kuops/ip-masq-agent:v2.4.0
+- kuops/ip-masq-agent-amd64:v2.4.0
+- kuops/cpvpa-amd64:v0.7.1
 -------------------------------at 2019-05-13 10:14:39 sync image repositorys-------------------------------
 - kuops/kubelet-to-gcm:1.2.11
 - kuops/kubedns-arm64:1.2.test
