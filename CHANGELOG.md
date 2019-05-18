@@ -1,3 +1,7 @@
+-------------------------------at 2019-05-18 10:47:00 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
 -------------------------------at 2019-05-17 10:23:00 sync image repositorys-------------------------------
 - kuops/slo-monitor:0.11.2
 - kuops/kubedns-arm64:1.2.test
