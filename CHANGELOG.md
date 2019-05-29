@@ -1,3 +1,22 @@
+- kuops/conformance:v1.15.0-beta.1
+- kuops/cloud-controller-manager-ppc64le:v1.15.0-beta.1
+- kuops/cloud-controller-manager-s390x:v1.12.10-beta.0
+- kuops/cloud-controller-manager-s390x:v1.15.0-beta.1
+- kuops/cloud-controller-manager-ppc64le:v1.12.10-beta.0
+- kuops/cloud-controller-manager-s390x:v1.12.9
+- kuops/cloud-controller-manager-arm64:v1.12.10-beta.0
+- kuops/cloud-controller-manager-ppc64le:v1.12.9
+- kuops/cloud-controller-manager-arm64:v1.12.9
+- kuops/cloud-controller-manager-arm64:v1.15.0-beta.1
+- kuops/cloud-controller-manager-arm:v1.12.9
+- kuops/cloud-controller-manager-arm:v1.12.10-beta.0
+- kuops/cloud-controller-manager:v1.12.10-beta.0
+- kuops/cloud-controller-manager-amd64:v1.12.10-beta.0
+- kuops/cloud-controller-manager:v1.12.9
+- kuops/cloud-controller-manager-amd64:v1.15.0-beta.1
+- kuops/cloud-controller-manager-amd64:v1.12.9
+- kuops/cloud-controller-manager:v1.15.0-beta.1
+- kuops/addon-resizer:1.8.5
 -------------------------------at 2019-05-23 10:17:03 sync image repositorys-------------------------------
 - kuops/kubedns-arm64:1.2.test
 - kuops/kubedns-amd64:1.2.test
