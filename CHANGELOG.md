@@ -1,3 +1,18 @@
+-------------------------------at 2019-05-31 10:38:18 sync image repositorys-------------------------------
+- kuops/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782
+- kuops/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- kuops/proxy-server:v0.0.1
+- kuops/proxy-agent:v0.0.1
+- kuops/nvidia-gpu-device-plugin:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- kuops/nvidia-gpu-device-plugin:4baa941d8df91e5dc1736adea74ce54e564dd782
+- kuops/managed-certificate-controller:v0.3.3
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/k8s-dns-sidecar-s390x:1.15.3
+- kuops/k8s-dns-sidecar-ppc64le:1.15.3
+- kuops/k8s-dns-sidecar-arm64:1.15.3
+- kuops/k8s-dns-sidecar-arm:1.15.3
 - kuops/k8s-dns-sidecar:1.15.3
 - kuops/k8s-dns-sidecar-amd64:1.15.3
 - kuops/k8s-dns-node-cache-s390x:1.15.3
