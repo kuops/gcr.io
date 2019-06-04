@@ -1,3 +1,11 @@
+-------------------------------at 2019-06-04 10:22:35 sync image repositorys-------------------------------
+- kuops/kubedns-arm64:1.2.test
+- kuops/kubedns-arm:1.2.test
+- kuops/kubedns-amd64:1.2.test
+- kuops/gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8
+- kuops/cluster-autoscaler:v1.12.6
+- kuops/cluster-autoscaler:v1.14.3
+- kuops/cluster-autoscaler:v1.13.5
 -------------------------------at 2019-05-31 10:38:18 sync image repositorys-------------------------------
 - kuops/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782
 - kuops/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
